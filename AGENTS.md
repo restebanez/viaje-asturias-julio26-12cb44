@@ -1,16 +1,27 @@
 # AGENTS.md — cómo trabajar en este repo
 
-Sitio de un itinerario de viaje. **Patrón docs-as-code: se edita la fuente y se
-regenera el HTML.** No es una app; es un documento con mapa y fotos.
+Sitio **multi-página** de itinerarios de viaje. **Patrón docs-as-code: se edita la
+fuente y se regenera el HTML.** No es una app; son documentos con mapa y fotos.
+
+## Páginas
+
+Cada viaje es una página = un `content/<x>.md` + un `data/<x>.yml`, registrados en el
+array `PAGES` de `scripts/build.mjs` (define salida, etiqueta de nav, fechas, leyenda):
+
+- **Asturias** → `index.html` (`content/itinerario-cangas-de-onis.md` + `data/lugares.yml`)
+- **Canadá** → `canada.html` (`content/canada.md` + `data/lugares-canada.yml`)
+
+Para añadir un viaje: crea el `.md` y el `.yml`, y añade una entrada a `PAGES`.
 
 ## Fuentes de verdad (lo que SÍ se edita)
 
 | Archivo | Qué contiene | Cuándo tocarlo |
 |---|---|---|
-| `content/itinerario-cangas-de-onis.md` | **Texto maestro** del itinerario | Cambios de texto (el 90% de las veces) |
-| `data/lugares.yml` | Datos de **mapa y fotos** por lugar | Añadir/mover un pin o una foto |
+| `content/*.md` | **Texto maestro** de cada viaje | Cambios de texto (el 90% de las veces) |
+| `data/*.yml` | Datos de **mapa, fotos y vídeos** por lugar | Añadir/mover un pin, foto o vídeo |
 | `assets/img/` | Imágenes (deben ser de **licencia libre**) | Añadir fotos |
-| `assets/css/estilo.css` | Estilos | Cambios de aspecto |
+| `assets/css/estilo.css` | Estilos (común a todas las páginas) | Cambios de aspecto |
+| `scripts/build.mjs` (`PAGES`) | Registro de páginas | Añadir/quitar un viaje |
 
 ## Generado (lo que NO se edita a mano)
 
