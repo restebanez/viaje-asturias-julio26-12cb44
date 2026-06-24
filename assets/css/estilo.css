@@ -1,0 +1,99 @@
+:root {
+  --tinta: #1f2a37;
+  --suave: #5b6b7b;
+  --linea: #e3e8ee;
+  --fondo: #ffffff;
+  --acento: #1565c0;
+  --acento2: #0e7c66;
+  --maxw: 860px;
+  font-synthesis: none;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  color: var(--tinta);
+  background: var(--fondo);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.65;
+  font-size: 17px;
+}
+
+main { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
+
+/* Cabecera */
+.cabecera { border-bottom: 1px solid var(--linea); margin-bottom: 28px; }
+.hero-img {
+  height: 280px;
+  background-size: cover;
+  background-position: center;
+}
+.cabecera-txt { max-width: var(--maxw); margin: 0 auto; padding: 22px 20px 18px; }
+.cabecera h1 { margin: 0; font-size: 1.9rem; line-height: 1.2; }
+.fechas { margin: 6px 0 0; color: var(--suave); font-weight: 600; letter-spacing: .02em; }
+
+/* Mapa */
+.mapa-wrap h2, .galeria h2 { font-size: 1.3rem; margin: 8px 0 12px; }
+#mapa {
+  height: 440px;
+  border-radius: 14px;
+  border: 1px solid var(--linea);
+  box-shadow: 0 1px 3px rgba(0,0,0,.05);
+  z-index: 0;
+}
+.leyenda { color: var(--suave); font-size: .9rem; display: flex; flex-wrap: wrap; gap: 14px; align-items: center; }
+.dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 4px; vertical-align: -1px; border: 2px solid #fff; box-shadow: 0 0 0 1px var(--linea); }
+
+/* Galería */
+.galeria { margin: 34px 0 8px; }
+.galeria .grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+.galeria figure { margin: 0; border: 1px solid var(--linea); border-radius: 12px; overflow: hidden; background: #fafbfc; }
+.galeria img { width: 100%; height: 160px; object-fit: cover; display: block; }
+.galeria figcaption { padding: 8px 10px; font-size: .85rem; color: var(--tinta); }
+.credito { color: var(--suave); font-size: .78rem; }
+.credito a { color: var(--suave); }
+
+/* Contenido */
+.contenido { margin-top: 28px; }
+.contenido h2 { font-size: 1.45rem; margin: 34px 0 10px; padding-top: 10px; border-top: 1px solid var(--linea); }
+.contenido h3 { font-size: 1.12rem; margin: 22px 0 6px; color: var(--acento2); }
+.contenido a { color: var(--acento); text-decoration: none; }
+.contenido a:hover { text-decoration: underline; }
+.contenido blockquote {
+  margin: 14px 0; padding: 10px 16px;
+  border-left: 4px solid var(--acento);
+  background: #f3f7fc; border-radius: 0 8px 8px 0; color: #2b3a4a;
+}
+.contenido code { background: #eef1f4; padding: 1px 6px; border-radius: 5px; font-size: .92em; }
+.contenido table { border-collapse: collapse; width: 100%; margin: 14px 0; font-size: .95rem; }
+.contenido th, .contenido td { border: 1px solid var(--linea); padding: 7px 10px; text-align: left; vertical-align: top; }
+.contenido th { background: #f6f8fa; }
+.contenido hr { border: none; border-top: 1px solid var(--linea); margin: 26px 0; }
+.contenido ul { padding-left: 22px; }
+.contenido li { margin: 3px 0; }
+
+.pie { max-width: var(--maxw); margin: 0 auto; padding: 20px; color: var(--suave); font-size: .85rem; border-top: 1px solid var(--linea); }
+
+@media (max-width: 520px) {
+  body { font-size: 16px; }
+  .hero-img { height: 190px; }
+  .cabecera h1 { font-size: 1.5rem; }
+  #mapa { height: 340px; }
+}
+
+/* Impresión → "Guardar como PDF" desde el navegador */
+@media print {
+  .mapa-wrap, .leyenda { display: none; }
+  .hero-img { height: 150px; }
+  body { font-size: 12px; }
+  .contenido h2 { break-after: avoid; }
+  a { color: #000; text-decoration: none; }
+  .galeria img { height: 120px; }
+}

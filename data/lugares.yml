@@ -1,0 +1,144 @@
+# Datos de mapa y fotos. Coordenadas reales (geocodificadas con OpenStreetMap).
+# Fotos de Wikimedia Commons (licencia libre) con su crédito.
+# semaforo: 🟢 tranquilo · 🟡 hay gente pero llevadero · 🔴 masificado
+# El enlace "Abrir en Google Maps" usa maps_query (más preciso que el pin).
+# Refrescar fotos: python3 scripts/fetch-fotos.py
+
+- nombre: Cangas de Onís (base)
+  dia: "Base"
+  semaforo: "🟡"
+  maps_query: "Cangas de Onís, Asturias"
+  lat: 43.31361
+  lng: -5.06585
+  foto: cangas.jpg
+  credito: "Javier Montes"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Puente_Romano_de_Cangas_de_On%C3%ADs.tif"
+  licencia: "CC BY-SA 4.0"
+
+- nombre: Playa fluvial de Aballe
+  dia: "Lun 20"
+  semaforo: "🟢"
+  maps_query: "Playa fluvial de Aballe, Parres"
+  lat: 43.32727
+  lng: -5.14350
+
+- nombre: Senda del río Casaño (La Molina)
+  dia: "Mar 21"
+  semaforo: "🟢"
+  maps_query: "La Molina, Cabrales"
+  lat: 43.30865
+  lng: -4.91222
+  wikiloc: "https://www.wikiloc.com/hiking-trails/ruta-por-el-rio-casano-la-molina-cabrales-69078011"
+  foto: casano.jpg
+  credito: "UnLugarDondeQuerrasQuedarte"
+  credito_url: "https://commons.wikimedia.org/wiki/File:R%C3%ADo_casa%C3%B1o_en_el_Concejo_de_Cabrales_en_oto%C3%B1o.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- nombre: Arenas de Cabrales
+  dia: "Mar 21 (comida)"
+  semaforo: "🟡"
+  maps_query: "Arenas de Cabrales"
+  lat: 43.30338
+  lng: -4.81471
+  foto: arenas.jpg
+  credito: "Joaquinceb"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Arenas_cabrales.jpg"
+  licencia: "Dominio público"
+
+- nombre: Playa de Cuevas del Mar
+  dia: "Mié 22"
+  semaforo: "🔴"
+  maps_query: "Playa de Cuevas del Mar, Nueva, Llanes"
+  lat: 43.45649
+  lng: -4.93840
+  foto: cuevas.jpg
+  credito: "Markus Braun"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Playa-cuevas-del-mar.JPG"
+  licencia: "Dominio público"
+  hero: true
+
+- nombre: Playa de San Antolín (alternativa tranquila)
+  dia: "Mié 22 (alt.)"
+  semaforo: "🟢"
+  maps_query: "Playa de San Antolín, Naves, Llanes"
+  lat: 43.44273
+  lng: -4.86868
+  foto: sanantolin.jpg
+  credito: "J.L. Maral"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Playa_de_San_Antolin.jpg"
+  licencia: "CC BY-SA 2.0"
+
+- nombre: Playa de Vega (alternativa tranquila)
+  dia: "Mié 22 (alt.)"
+  semaforo: "🟡"
+  maps_query: "Playa de Vega, Ribadesella"
+  lat: 43.48018
+  lng: -5.14052
+  foto: vega.jpg
+  credito: "McBodes"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Playa_de_Vega_,_Ribadesella._-_panoramio.jpg"
+  licencia: "CC BY 3.0"
+
+- nombre: Olla de San Vicente (río Dobra)
+  dia: "Jue 23"
+  semaforo: "🔴"
+  maps_query: "Aparcamiento Olla de San Vicente"
+  lat: 43.30613
+  lng: -5.12837
+  wikiloc: "https://www.wikiloc.com/hiking-trails/olla-de-san-vicente-rio-dobra-cangas-de-onis-asturias-10595194"
+  foto: olla.jpg
+  credito: "McBodes"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Olla_de_San_Vicente_,_rio_Dobra_._-_panoramio.jpg"
+  licencia: "CC BY 3.0"
+
+- nombre: Santuario de Covadonga
+  dia: "Jue 23 (opcional)"
+  semaforo: "🔴"
+  maps_query: "Santuario de Covadonga"
+  lat: 43.30421
+  lng: -5.06154
+  foto: covadonga.jpg
+  credito: "Luis Fermín Turiel Peredo"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Covadonga,_basilica_03.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- nombre: Ruta del Alba (Soto de Agues)
+  dia: "Intercambio"
+  semaforo: "🟡"
+  maps_query: "Soto de Agues"
+  lat: 43.20200
+  lng: -5.46739
+  wikiloc: "https://www.wikiloc.com/hiking-trails/ruta-del-alba-desde-soto-de-agues-parque-natural-de-redes-244840"
+  foto: alba.jpg
+  credito: "Juana Navío Soto"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Ruta_del_r%C3%ADo_Alba_VI.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- nombre: Lastres
+  dia: "Vie 24"
+  semaforo: "🟡"
+  maps_query: "Lastres, Colunga"
+  lat: 43.51485
+  lng: -5.29276
+  foto: lastres.jpg
+  credito: "Tim Adams"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Lastres_of_Asturias,_Spain_at_daybreak.jpg"
+  licencia: "CC BY 2.0"
+
+- nombre: Playa de La Griega
+  dia: "Vie 24"
+  semaforo: "🟡"
+  maps_query: "Playa de La Griega, Colunga"
+  lat: 43.50146
+  lng: -5.25972
+  foto: griega.jpg
+  credito: "Giorgio Galeotti"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Playa_de_La_Griega_-_Colunga,_Spain_-_July_24,_2024_01.jpg"
+  licencia: "CC BY-SA 4.0"
+
+- nombre: Aeropuerto de Asturias (OVD)
+  dia: "Vie 24 · vuelo 17:00"
+  semaforo: ""
+  maps_query: "Aeropuerto de Asturias"
+  lat: 43.56162
+  lng: -6.03091
