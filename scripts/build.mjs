@@ -14,7 +14,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
 const dist = join(root, 'dist');
 
-const SITE = { nombre: 'Viaje verano 2026', fechas: 'Asturias + Canadá · julio–agosto 2026' };
+const SITE = { nombre: 'Viaje verano 2026', fechas: 'Asturias · Burgos · Canadá · verano 2026' };
 
 const LEG_ASTURIAS = [
   { c: '#2e7d32', t: 'tranquilo' }, { c: '#f9a825', t: 'hay gente, llevadero' },
@@ -23,6 +23,10 @@ const LEG_ASTURIAS = [
 const LEG_CANADA = [
   { c: '#1565c0', t: 'base / camping' }, { c: '#2e7d32', t: 'actividad / naturaleza' },
   { c: '#f9a825', t: 'popular' }, { c: '#c62828', t: 'muy concurrido / con reserva' },
+];
+const LEG_BURGOS = [
+  { c: '#2e7d32', t: 'tranquilo' }, { c: '#f9a825', t: 'hay gente, llevadero' },
+  { c: '#c62828', t: 'masificado' }, { c: '#1565c0', t: 'base / logística' },
 ];
 
 // Partes del viaje. Para añadir páginas por día más adelante: rellenar `dias` con
@@ -42,6 +46,15 @@ const PARTS = [
       { slug: 'playas-asturias', titulo: '🏖️ Playas', content: 'playas-asturias.md', base: 'ast', tipos: ['base', 'playa'] },
       { slug: 'caminatas-asturias', titulo: '🥾 Caminatas', content: 'caminatas-asturias.md', base: 'ast', tipos: ['base', 'caminata'] },
       { slug: 'contexto-asturias', titulo: 'Contexto', content: 'contexto-asturias.md' },
+    ],
+  },
+  {
+    output: 'burgos.html', nav: 'Burgos', content: 'burgos.md', data: 'lugares-burgos.yml',
+    fechas: '3 días · naturaleza, agua y pueblos', desc: 'Tres días desde Burgos: Neila, Arlanza y Merindades — caminata + baño natural.',
+    legend: LEG_BURGOS, subLabel: '🥾💦 Caminatas y baños',
+    dias: [
+      { slug: 'caminatas-burgos', titulo: '🥾 Caminatas', content: 'caminatas-burgos.md', base: 'bur', tipos: ['base', 'caminata'] },
+      { slug: 'banos-burgos', titulo: '💦 Baños', content: 'banos-burgos.md', base: 'bur', tipos: ['base', 'bano'] },
     ],
   },
   {
