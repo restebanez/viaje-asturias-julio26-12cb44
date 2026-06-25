@@ -360,6 +360,27 @@ Emerald, Minnewanka): preciosos para ver, no para nadar. Los que **sí** se disf
 
 ---
 
+## 🚲 Días de bici (alquiler por día)
+
+Merece la pena **un día suelto de bici**, alquilando en el sitio (no llevéis bicis en la AC:
+almacenaje, robo y portabicis). Para Darío: **bici infantil, _tag-along_ (semitándem) o
+remolque** — resérvalo con antelación (en agosto vuelan). Adultos: híbrida o **e-bike** (ojo:
+**e-bike solo 16+**, así que con e-bike Darío iría en tag-along/remolque tras una bici normal).
+
+- 🚲 **Banff — 2ª estancia (16–20 ago), el mejor día.** Llano y escénico: **pueblo → Bow River →
+  Vermilion Lakes**, o subir en bici el tramo asfaltado a **Sundance Canyon** y hacer el bucle a
+  pie. Alquiler: [Bike Banff](https://bikebanff.com/bike-rentals/) ·
+  [Banff Cycle](https://www.banffcycle.com/) (tienen infantiles, tag-along y remolques).
+- 🚲 **Jasper (3–6 ago) — día de descanso.** Red de conectores llana: **Lake Annette / Edith /
+  Lac Beauvert** (bici + baño en lagos cálidos). ⚠️ Confirmad qué zonas siguen abiertas tras el
+  incendio de 2024: [Parks Canada — cycling in Jasper](https://parks.canada.ca/pn-np/ab/jasper/activ/experience/ete-summer/velo-bike).
+- 🚲 **Canmore (20–22 ago) — bonus fácil.** Carril del Bow + Policeman's Creek hasta **Quarry
+  Lake** (chapuzón), llano y junto a la devolución de la AC.
+- 🚫 **No en bici con niño:** Lake Louise/Moraine (carretera de montaña → mejor shuttle), Yoho,
+  Kootenay e Icefields Parkway (son de coche + caminata).
+
+---
+
 ## 🎒 Clima y equipo
 
 Agosto en las Rocosas: días suaves (15–25 °C) pero **mañanas y noches frías** en altura, y

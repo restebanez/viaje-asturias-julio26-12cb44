@@ -170,6 +170,11 @@ Sin ruta de montaña. Objetivo: estar en el aeropuerto **~14:00** (vuelo a las *
   **no es zona de baño** y es el mayor foco de multitudes. Mejor, si acaso, salida
   panorámica aparte.
 
+> 🚲 **¿Día de bici?** La mejor familiar de Asturias es la **[Senda del Oso](https://www.bicisendadeloso.es/)**
+> (carril sobre vía verde, con bicis infantiles, semitándem y remolques), pero está a ~1 h–1 h 15
+> de Cangas y rompe el plan compacto Casaño/Olla/playa. Solo si queréis un día de bici sí o sí —
+> y en ese caso, en vez de la Olla.
+
 ---
 
 ## 🎒 Checklist de mochila
