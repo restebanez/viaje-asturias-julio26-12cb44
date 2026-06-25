@@ -32,6 +32,23 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
 .nav-viajes b { color: var(--tinta); }
 .nav-viajes .sep { margin: 0 8px; color: var(--linea); }
 
+/* Portada (Viaje verano 2026) */
+.landing { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
+.partes { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top: 22px; }
+.parte-card { display: block; border: 1px solid var(--linea); border-radius: 14px; overflow: hidden; text-decoration: none; color: inherit; background: #fafbfc; box-shadow: 0 1px 3px rgba(0,0,0,.05); transition: box-shadow .15s, transform .15s; }
+.parte-card:hover { box-shadow: 0 6px 18px rgba(0,0,0,.12); transform: translateY(-2px); }
+.parte-img { height: 210px; background-size: cover; background-position: center; }
+.parte-txt { padding: 14px 16px 16px; }
+.parte-txt h2 { margin: 0; font-size: 1.4rem; border: 0; padding: 0; }
+.parte-txt .fechas { margin: 4px 0 0; }
+.parte-txt .desc { color: var(--suave); margin: 8px 0 0; font-size: .95rem; line-height: 1.5; }
+@media (max-width: 620px) { .partes { grid-template-columns: 1fr; } .parte-img { height: 180px; } }
+
+/* Índice de días y volver (páginas por día) */
+.dias-index { margin: 8px 0 18px; }
+.dias-index ul { padding-left: 20px; }
+.volver { margin: 0 0 14px; }
+
 /* Cabecera */
 .cabecera { border-bottom: 1px solid var(--linea); margin-bottom: 28px; }
 .hero-img {

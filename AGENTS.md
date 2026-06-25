@@ -1,17 +1,24 @@
 # AGENTS.md — cómo trabajar en este repo
 
-Sitio **multi-página** de itinerarios de viaje. **Patrón docs-as-code: se edita la
-fuente y se regenera el HTML.** No es una app; son documentos con mapa y fotos.
+Sitio **"Viaje verano 2026"**: una **portada** (`index.html`) con dos **partes** —Asturias
+y Canadá—, cada una con su itinerario, mapa y caminatas. **Patrón docs-as-code: se edita la
+fuente (MD + YAML) y se regenera el HTML.** No es una app.
 
-## Páginas
+## Estructura
 
-Cada viaje es una página = un `content/<x>.md` + un `data/<x>.yml`, registrados en el
-array `PAGES` de `scripts/build.mjs` (define salida, etiqueta de nav, fechas, leyenda):
+- **Portada** → `index.html` (`content/landing.md` + tarjetas de cada parte). Sin mapa.
+- **Partes** (array `PARTS` en `scripts/build.mjs`):
+  - **Asturias** → `asturias.html` (`content/asturias.md` + `data/lugares-asturias.yml`)
+  - **Canadá** → `canada.html` (`content/canada.md` + `data/lugares-canada.yml`)
+- Cada parte tiene mapa, leyenda y resumen. Navegación: portada ↔ partes.
 
-- **Asturias** → `index.html` (`content/itinerario-cangas-de-onis.md` + `data/lugares.yml`)
-- **Canadá** → `canada.html` (`content/canada.md` + `data/lugares-canada.yml`)
+**Páginas por día (preparado, aún vacío):** cada parte tiene `dias: []` en `PARTS`. Para
+añadir la página de caminatas/playa de un día: crea `content/<algo>.md` y añade a `dias` algo
+como `{ slug:'jasper', titulo:'Jasper (3–6 ago)', content:'jasper.md', mapAll:true }`. Genera
+`canada-jasper.html` y un índice "Días / etapas" en la parte (reutiliza el YAML de la parte
+para `{{media:id}}`).
 
-Para añadir un viaje: crea el `.md` y el `.yml`, y añade una entrada a `PAGES`.
+Para añadir una parte nueva: crea el `.md` y el `.yml` y añade una entrada a `PARTS`.
 
 ## Fuentes de verdad (lo que SÍ se edita)
 
@@ -21,7 +28,8 @@ Para añadir un viaje: crea el `.md` y el `.yml`, y añade una entrada a `PAGES`
 | `data/*.yml` | Datos de **mapa, fotos y vídeos** por lugar | Añadir/mover un pin, foto o vídeo |
 | `assets/img/` | Imágenes (deben ser de **licencia libre**) | Añadir fotos |
 | `assets/css/estilo.css` | Estilos (común a todas las páginas) | Cambios de aspecto |
-| `scripts/build.mjs` (`PAGES`) | Registro de páginas | Añadir/quitar un viaje |
+| `content/landing.md` | Intro de la **portada** | Cambiar el texto de inicio |
+| `scripts/build.mjs` (`PARTS`) | Registro de partes y días | Añadir/quitar una parte o un día |
 
 ## Generado (lo que NO se edita a mano)
 
@@ -43,7 +51,7 @@ construye y despliega en GitHub Pages.
 
 1. **El MD manda.** Si cambias el plan, cámbialo en el MD; luego `npm run build`.
 2. **Fotos solo de licencia libre** (Wikimedia Commons, dominio público…) con su
-   crédito en `data/lugares.yml` (`credito`, `credito_url`, `licencia`). Es un sitio
+   crédito en `data/lugares-*.yml` (`credito`, `credito_url`, `licencia`). Es un sitio
    público: no subas imágenes con copyright.
 3. **Privacidad:** el sitio lleva `noindex` + `robots.txt` Disallow (no debe salir
    en buscadores). Mantenlo así salvo que el dueño pida lo contrario.
@@ -60,7 +68,7 @@ La foto de un lugar aparece **junto a su día** poniendo `{{media:ID}}` en el MD
 una ficha flotante con foto + crédito + enlaces (▶︎ Vídeo · 🗺️ Mapa · 🥾 Wikiloc).
 Pon `{{media:ID}}` en su propia línea, con una línea en blanco antes y después.
 
-## Estructura de un lugar (`data/lugares.yml`)
+## Estructura de un lugar (`data/lugares-*.yml`)
 
 ```yaml
 - id: olla                                  # se usa en el MD como {{media:olla}}
