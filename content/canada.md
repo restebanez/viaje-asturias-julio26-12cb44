@@ -17,9 +17,9 @@ Lake Louise y Kootenay**, más Kananaskis al final.
   reserva/muy concurrido. Pincha un pin para abrir **Google Maps**, el **vídeo** y la **ruta**.
 - **Símbolos:** 🥾 caminata (≤4 h) · ⛰️ reto >4 h (adultos) · ⭕ circular · 💦 baño · ♨️ termas ·
   🚐 se llega/aparca con la autocaravana · 🚌 hay bus o shuttle.
-- **Cada etapa** lleva: fechas, **nº de reserva y sitio**, qué ver, **2 caminatas** con su
-  acceso, y fichas con foto + vídeo + mapa. Abajo: tabla de **conducción entre campings**,
-  reservas y **dónde bañarse**.
+- **Cada etapa** lleva: fechas, **nº de reserva y sitio**, qué ver, **2 caminatas principales**
+  (+ alternativas/reto) con su acceso, y fichas con foto + vídeo + mapa. Abajo: **caminatas de un
+  vistazo**, conducción, costes, logística RV y **dónde bañarse**.
 
 ---
 
@@ -85,14 +85,14 @@ Primer contacto con las Rocosas, muy cerca del pueblo de Banff.
 Cruzáis a la Columbia Británica (Yoho). Base en **Field**.
 
 - **Emerald Lake**: el lago esmeralda por excelencia; **alquiler de canoas** (operador autorizado, ~16 may–8 oct). ⚠️ Por la veda de especies invasoras en Yoho/Kootenay (hasta 2027) **no se puede llevar embarcación propia** ni pescar.
-- **Takakkaw Falls**: una de las cascadas más altas de Canadá (~254 m), espectacular. ⚠️ **Acceso:** la Yoho Valley Road limita a **7 m / 23 ft** y no admite remolques → **con la AC no podréis subir**; aparcad en **Monarch Campground** al inicio y comprobad si hay shuttle, o quedaos con Emerald/Wapta.
+- **Takakkaw Falls**: una de las cascadas más altas de Canadá (~254 m), espectacular. ⚠️ **Acceso:** la Yoho Valley Road obliga a los vehículos **>7 m / 23 ft** a maniobrar **marcha atrás** en las curvas y **no admite remolques** → **con la AC no subáis**; **no hay shuttle público fiable** a Takakkaw → aparcad la AC en **Monarch Campground** al inicio, o quedaos con Emerald/Wapta.
 - **Natural Bridge**: puente de roca esculpido por el río Kicking Horse.
 - **Spiral Tunnels**: mirador donde se ve pasar el **tren** entrando en los túneles en
   espiral (al peque le encantará).
 - 🥾 **Emerald Lake Loop** — 5,3 km **circular** y llano, ~1 h 30 (chapuzón solo para valientes, muy fría). [Ruta](https://www.alltrails.com/trail/canada/british-columbia/emerald-lake-loop). 🚐 Con la AC por Emerald Lake Rd (asfaltada); el parking se llena, ir pronto.
 - 🥾 **Wapta Falls** — 4,5 km ida/vuelta, ~1 h 15, fácil y apta para el peque. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/wapta-falls). 🚐 Desvío de gravilla 1,6 km + parking pequeño (con la AC, justo; llegar pronto).
-- 🥾 **Sherbrooke Lake** (3 km, fácil, lago turquesa) y **Paget Lookout** (7 km, +520 m, ~3 h, mirador panorámico) — mismo inicio (Wapta Lake), **sin cortados**. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/paget-lookout-and-sherbrooke-lake). 🚐 Con la AC, parking junto a la Trans-Canada (Great Divide).
-- ⛰️ **Reto opcional: Hamilton Lake** — ~10 km i/v, **+850 m**, ~4,5–5 h: subida dura y sostenida, pero **sin precipicios**; lago alpino precioso y poca gente. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/hamilton-lake-trail). 🚐 Desde Emerald Lake.
+- 🥾 **Sherbrooke Lake** (6 km i/v, +250 m, fácil, lago turquesa) y **Paget Lookout** (7 km, +520 m, ~3 h, mirador panorámico) — mismo inicio (Wapta Lake), **sin cortados**. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/paget-lookout-and-sherbrooke-lake). 🚐 Con la AC, parking junto a la Trans-Canada (Great Divide).
+- ⛰️ **Reto opcional: Hamilton Lake** — **11 km i/v, +850 m, ~5 h**: subida dura y sostenida, pero **sin precipicios**; lago alpino precioso y poca gente. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/hamilton-lake-trail). 🚐 Desde Emerald Lake. ⚠️ Revisad el estado 48 h antes (nieve/avalanchas a inicio de temporada).
 - ℹ️ *Lake O'Hara* (la joya de Yoho) va por **sorteo de bus que ya cerró** (2–23 mar 2026): solo cancelaciones o guía autorizado. *Iceline/Takakkaw*: la AC no sube por la Yoho Valley Road.
 
 {{media:takakkaw}}
@@ -118,7 +118,7 @@ El parque más grande y salvaje. Subís por la Icefields Parkway hasta Jasper.
 - Buen sitio para **cenar de restaurante** (el pueblo de Jasper tiene oferta).
 - 🥾 **Valley of the Five Lakes** — 5,5 km **circular**, ~2 h, lagos turquesa con **💦 zonas de baño** (algún tramo puede estar desviado por el incendio: seguid la señalización). [Ruta](https://www.alltrails.com/trail/canada/alberta/valley-of-the-five-lakes-loop). 🚐 Con la AC, parking en la Hwy 93 (~10 min del pueblo).
 - 🥾 **Lake Annette Loop** — 2,7 km **circular** y llano (cochecito ok), de los lagos **más cálidos para bañarse 💦**. [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-annette-loop). 🚐 Con la AC, parking junto al lago (cerca del pueblo).
-- 🥾 **Sulphur Skyline** — 8 km i/v, **+650/700 m**, ~3,5–4 h: cima abierta y ventosa con panorámica de 360° (**sin cortados**); empieza junto a **Miette Hot Springs** (termas al bajar). [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail). 🚐 Con la AC a Miette (~1 h del pueblo). **La mejor caminata fuerte de Jasper.**
+- 🥾 **Sulphur Skyline** — 8 km i/v, **+650/700 m**, **~3,5–5 h según ritmo** (con niño puede pasar de 4 h): cima abierta y ventosa con panorámica de 360° (**sin cortados**); empieza junto a **Miette Hot Springs** (termas al bajar). [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail). 🚐 Con la AC a Miette (~1 h del pueblo). **La mejor caminata fuerte de Jasper.**
 
 {{media:pyramid_lake}}
 
@@ -143,7 +143,7 @@ Louise. (De camino/alrededor del campamento.)
   limita a 25 ft y vuestra AC es de hasta 27 ft, así que no entraría).
 - **Peyto Lake**: el mirador del lago con forma de lobo, de los más fotografiados.
 - 🥾 **Parker Ridge** — 5 km ida/vuelta, ~2 h 30, +250 m, hasta el **glaciar Saskatchewan** (alpina y ventosa; sin baño). [Ruta](https://www.alltrails.com/trail/canada/alberta/parker-ridge). 🚐 Con la AC, parking en el km 117 de la Parkway.
-- 🥾 **Wilcox Pass** — la mejor vista del **glaciar Athabasca**: hasta las *Red Chairs* ~4 km ida/vuelta (~1,5 h, familiar) o el paso completo ~9,6 km (~3,5 h). [Ruta](https://www.alltrails.com/trail/canada/alberta/wilcox-viewpoint-via-wilcox-pass). 🚐 Con la AC, trailhead en Wilcox Creek (junto al Icefield Centre). 💦 De camino, **Herbert Lake** para un chapuzón rápido.
+- 🥾 **Wilcox Pass** — la mejor vista del **glaciar Athabasca**: hasta las *Red Chairs* ~4 km ida/vuelta (~1,5 h, **el plan familiar**) o el paso completo ~9,6 km (~3,5 h, suele estar **peor de estado** → quedaos en las Red Chairs). [Ruta](https://www.alltrails.com/trail/canada/alberta/wilcox-viewpoint-via-wilcox-pass). 🚐 Con la AC, trailhead en Wilcox Creek (junto al Icefield Centre). 💦 De camino, **Herbert Lake** para un chapuzón rápido.
 
 {{media:athabasca_falls}}
 
@@ -187,7 +187,7 @@ De vuelta a BC, parque más tranquilo y con termas.
 - **Marble Canyon**: cañón estrecho con pasarelas sobre el agua turquesa.
 - **Paint Pots** y otros **cañones** para caminar.
 - 🥾 **Juniper Loop** — 6 km **circular**, ~2 h, por Sinclair Canyon y la falla Redwall (bosque seco, ovejas de montaña). [Ruta](https://www.alltrails.com/trail/canada/british-columbia/juniper-loop). 🚐 Trailhead junto a la puerta oeste/termas de Radium, **a ~5 min del camping Redstreak**. ⚠️ Reconfirmar: **obras en Sinclair Canyon** en 2026 (posibles cierres de pasos).
-- 🥾 **Stanley Glacier** — ~8,4 km i/v (hasta el circo), +400 m, ~3 h: bosque quemado → circo glaciar con cascadas y **fósiles del Burgess Shale**; **pendiente pero sin cortados** en el sendero mantenido. [Ruta](https://www.alltrails.com/trail/canada/alberta/stanley-glacier-trail). 🚐 Con la AC, parking en la Hwy 93. **La mejor de Kootenay.**
+- 🥾 **Stanley Glacier** — **~9,8 km i/v** (4,9 km ida), +405 m, ~3 h: bosque quemado → circo glaciar con cascadas y **fósiles del Burgess Shale**; **pendiente pero sin cortados** en el sendero mantenido. [Ruta](https://www.alltrails.com/trail/canada/alberta/stanley-glacier-trail). 🚐 Con la AC, parking en la Hwy 93. **La mejor de Kootenay.**
 - 🥾 **Marble Canyon** — ~1,6 km, fácil, cañón con pasarelas sobre agua turquesa. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon). 🚐 Con la AC, parking en la Hwy 93. (Tuvo cierres puntuales a principios de 2026, ya finalizados; **reconfirmad**.)
 - 💦 Baño: las **termas de Radium ♨️** (los lagos y ríos van helados). *(Dog Lake está **cerrado en 2026** por un puente dañado.)*
 
@@ -280,22 +280,35 @@ Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 | Wapta Falls | Yoho | 4,5 | +150 | 1,5 h | i/v | – | 🚐 | No |
 | Sherbrooke Lake | Yoho | 6 | +250 | 2 h | i/v | – | 🚐 | No |
 | Paget Lookout | Yoho | 7 | +520 | 3 h | i/v | – | 🚐 | No |
-| ⛰️ Hamilton Lake | Yoho | 10 | +850 | 4,5–5 h | i/v | – | 🚐 | No |
+| ⛰️ Hamilton Lake | Yoho | 11 | +850 | ~5 h | i/v | – | 🚐 | No |
 | Valley of the Five Lakes | Jasper | 5,5 | +120 | 2 h | ⭕ | 💦 | 🚐 | No |
 | Lake Annette | Jasper | 2,7 | llano | 0,75 h | ⭕ | 💦 | 🚐 | No |
-| Sulphur Skyline | Jasper | 8 | +700 | 3,5–4 h | i/v | – | 🚐 | No |
+| Sulphur Skyline | Jasper | 8 | +700 | 3,5–5 h | i/v | – | 🚐 | No |
 | Wilcox Pass (Red Chairs) | Icefields | 4 | +130 | 1,5 h | i/v | – | 🚐 | Borde en el mirador |
 | Parker Ridge | Icefields | 5 | +250 | 2,5 h | i/v | – | 🚐 | Borde en el mirador |
 | Lake Louise Lakeshore | L. Louise | 4,7 | llano | 1,5 h | i/v | – | 🚌 | No |
 | Lake Agnes Tea House | L. Louise | 7,4 | +400 | 3–3,5 h | i/v | – | 🚌 | No |
 | Plain of Six Glaciers | L. Louise | 14 | +585 | 4,5–5 h | i/v | – | 🚌 | Tramo final |
 | Larch Valley | L. Louise | 8,6 | +535 | 3,5 h | i/v | – | 🚌 Moraine | Parad en el valle |
-| Stanley Glacier | Kootenay | 8,4 | +400 | 3 h | i/v | – | 🚐 | No |
+| Stanley Glacier | Kootenay | 9,8 | +405 | 3 h | i/v | – | 🚐 | No |
 | Juniper Loop | Kootenay | 6 | +300 | 2 h | ⭕ | – | 🚐 | No |
 | Marble Canyon | Kootenay | 1,6 | llano | 0,75 h | i/v | – | 🚐 | No (barandilla) |
 | Grotto Canyon | Kananaskis | 4 | +80 | 1,5 h | i/v | – | 🚐 | No |
 | Troll Falls | Kananaskis | 3,5 | +60 | 1–1,5 h | i/v | – | 🚐 | No |
 | Many Springs | Kananaskis | 1,6 | llano | 0,5 h | ⭕ | – | 🚶 | No |
+
+---
+
+## 🚫 Descartadas (por ahora)
+
+| Caminata / sitio | Motivo (2026) |
+|---|---|
+| Bow Glacier Falls | Cerrada *until further notice* (rockfall mortal, jun 2025) |
+| Lake O'Hara | Sorteo de bus ya cerrado (2–23 mar); solo cancelaciones o guía |
+| Iceline / Takakkaw | Yoho Valley Road: la AC (27 ft) no sube; sin shuttle fiable |
+| Dog Lake (Kootenay) | Puente dañado, cerrado |
+| Grassi Lakes (Canmore) | Cerrada por desprendimiento (jun 2026) |
+| Ha Ling (Canmore) | Acceso norte cerrado (desprendimiento EEOR) + cumbre expuesta |
 
 ---
 
@@ -313,23 +326,24 @@ Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 
 ---
 
-## 💵 Costes orientativos (CAD 2026, por adulto — confirmar en webs oficiales)
+## 💵 Costes orientativos (CAD 2026, aprox. — confirmar en webs oficiales)
 
-| Actividad | Aprox. |
-|---|---|
-| Banff Gondola | ~75 $ |
-| Banff Upper Hot Springs | ~17 $ |
-| Columbia Icefield (Ice Explorer + Skywalk) | ~125 $ |
-| Jasper SkyTram | ~60 $ |
-| Crucero Maligne Lake (Spirit Island) | ~115 $ |
-| Miette / Radium Hot Springs | ~10–18 $ |
-| Shuttle Lake Louise/Moraine (Parks Canada) | ~8 $ + 3,50 $ reserva |
-| Roam Transit (Banff) | ~2–6 $ |
-| **Kananaskis Conservation Pass** | 15 $/día · 90 $/año |
-| Alquiler bici/e-bike (Moraine) | ~25–60 $/día |
+| Actividad | Adulto | Notas |
+|---|---|---|
+| Banff Gondola | ~88 $ | dinámico (más barato online) |
+| Banff Upper Hot Springs | ~17 $ | |
+| Columbia Icefield (Ice Explorer + Skywalk) | ~125 $ | reservar |
+| Jasper SkyTram | ~78 $ | reservar / dinámico |
+| Crucero Maligne Lake (Spirit Island) | ~115 $ | reservar (se agota) |
+| Miette / Radium Hot Springs | 19,75 $ | Parks Canada |
+| Shuttle Lake Louise/Moraine | 12,75 $ (niño 4 $) | + 3,50 $ reserva online |
+| Roam: local / **8X** Banff–Lake Louise | ~2–6 $ / ~12,50 $ | |
+| **Kananaskis Conservation Pass** | 15 $/día · 90 $/año | por vehículo |
+| Alquiler e-bike (Moraine) | ~95 $/día | **16+** (no apto Darío) |
 
-Niños suelen pagar tarifa reducida o gratis. Combo Pursuit "Ultimate Explorer" (Gondola + crucero
-Banff + Columbia Icefield) ~258 $. **Entrada a los parques: gratis** (Canada Strong Pass 2026).
+Niños/jóvenes suelen tener tarifa reducida (p. ej. shuttle 4 $). Combo Pursuit "Ultimate
+Explorer" (Gondola + crucero Banff + Columbia Icefield) ~258 $. **Entrada a parques: gratis**
+(Canada Strong Pass 2026).
 
 ---
 

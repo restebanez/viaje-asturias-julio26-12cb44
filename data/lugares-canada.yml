@@ -552,8 +552,8 @@
   dia: "Yoho · reto opcional"
   semaforo: "🟢"
   maps_query: "Hamilton Lake Trailhead, Emerald Lake, Yoho"
-  lat: 51.4300
-  lng: -116.5530
+  lat: 51.4428
+  lng: -116.5295
   ruta: "https://www.alltrails.com/trail/canada/british-columbia/hamilton-lake-trail"
 
 - id: sulphur_skyline
