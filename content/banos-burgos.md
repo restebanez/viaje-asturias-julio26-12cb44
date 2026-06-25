@@ -15,6 +15,7 @@ Silos. **Gente:** 🟡 (se masifica en agosto → madrugar). ⚠️ **No oficial
 control de agua): baño bajo responsabilidad propia.
 
 ### Cascada del Peñón (Pedrosa de Tobalina) 🟡
+{{media:pedrosa}}
 🌊 poza al pie de una cascada ancha del río Jerea · 🚗 ~1 h 15 de Burgos · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=42.34485,-3.68125&destination=42.84827,-3.33413&travelmode=driving)
 
 El **baño natural de verdad** del viaje: una poza al pie de una cascada ancha y bonita. **Por qué

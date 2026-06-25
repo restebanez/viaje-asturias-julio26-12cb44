@@ -22,6 +22,10 @@
   maps_query: "Covarrubias, Burgos"
   lat: 42.05929
   lng: -3.52018
+  foto: covarrubias.jpg
+  credito: "TurismoRuralArlanza"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Vista_A%C3%A9rea_Covarrubias_Puente.jpg"
+  licencia: "CC BY-SA 4.0"
 
 - id: neila
   nombre: Circular Lagunas de Neila (corta)
@@ -33,6 +37,10 @@
   maps_query: "Aparcamiento Peña Aguda, Lagunas de Neila"
   lat: 42.04345
   lng: -3.03979
+  foto: neila.jpg
+  credito: "Valdoria"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Lagunas_de_Neila._Burgos.jpeg"
+  licencia: "Dominio público"
 
 - id: tobera
   nombre: Tobera — Paseo del Molinar
@@ -44,6 +52,10 @@
   maps_query: "Cascadas de Tobera"
   lat: 42.74994
   lng: -3.30557
+  foto: tobera.jpg
+  credito: "MottaW"
+  credito_url: "https://commons.wikimedia.org/wiki/File:M-cascada-la-tobera-barriolucio-junio-2024-c.jpg"
+  licencia: "CC BY 4.0"
 
 - id: pielago
   nombre: El Piélago (baño en el Arlanza)
@@ -66,6 +78,10 @@
   maps_query: "Cascada de Pedrosa de Tobalina"
   lat: 42.84827
   lng: -3.33413
+  foto: pedrosa.jpg
+  credito: "David Perez"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Pedrosa_de_Tobalina_01_by-dpc.jpg"
+  licencia: "CC BY 3.0"
 
 - id: trueba
   nombre: Río Trueba (Espinosa) — baño oficial
@@ -85,6 +101,10 @@
   maps_query: "Monasterio de Santo Domingo de Silos"
   lat: 41.96163
   lng: -3.42015
+  foto: silos.jpg
+  credito: "Jl FilpoC"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Claustro_del_Monasterio_de_Santo_Domingo_de_Silos,_Santo_Domingo_de_Silos.jpg"
+  licencia: "CC BY-SA 4.0"
 
 - id: frias
   nombre: Frías (castillo y casas colgadas)
@@ -93,6 +113,11 @@
   maps_query: "Frías, Burgos"
   lat: 42.74792
   lng: -3.29613
+  foto: frias.jpg
+  credito: "Eliana Alvoz"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Castillo_de_Fr%C3%ADas_(Burgos).JPG"
+  licencia: "CC BY-SA 4.0"
+  hero: true
 
 - id: cuyacabras
   nombre: Necrópolis de Cuyacabras

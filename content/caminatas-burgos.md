@@ -7,6 +7,7 @@ exposición. Lo único a vigilar son los **bordes/precipicios** (lo indico en ca
 **Gente:** 🟢 tranquila · 🟡 media · 🔴 muy concurrida
 
 ### Covarrubias — paseo y ribera del Arlanza 🟡
+{{media:covarrubias}}
 ~1–3 km · llano · ~1 h · muy fácil · 🚗 ~40 min de Burgos · sin exposición · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=42.34485,-3.68125&destination=42.05929,-3.52018&travelmode=driving)
 
 Paseo suave por el casco medieval de **Covarrubias** y, opcional, un tramo de **ribera del Arlanza**;
@@ -14,6 +15,7 @@ sin exigencia. **Por qué hacerla:** pueblo precioso + río, combina perfecto co
 y Silos por la tarde. **Gente:** 🟡 (se nota en agosto). 💦 baño cerca: **El Piélago**.
 
 ### Lagunas de Neila — circular corta ⭕ ⛰️ 🟡
+{{media:neila}}
 6,2 km ⭕ · +179 m · ~2–2,5 h · moderada · 🚗 ~1 h 30 de Burgos · cordal expuesto al sol/viento (sin cortados) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=42.34485,-3.68125&destination=42.04345,-3.03979&travelmode=driving)
 
 Circular **reducida** de las Lagunas de Neila: sube por pinar (sombra) y rodea el **circo glaciar**,
@@ -25,6 +27,7 @@ protegidas y muy frías). ⚠️ **No bajéis al barranco por el desvío de hito
 Calderas** (cuerdas, destrepes, pasos estrechos), **no apta con niño** — seguid siempre el PRC.
 
 ### Tobera — Paseo del Molinar (+ Frías–Tobera) ⭕ 🟡
+{{media:tobera}}
 ~1–1,5 km ⭕ · llano · ~25–30 min · sencillo · 🚗 ~1 h 10 de Burgos · paseo balizado (ojo bordes/escaleras) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=42.34485,-3.68125&destination=42.74994,-3.30557&travelmode=driving)
 
 Circular corta entre **cascadas** por el desfiladero de Tobera (Paseo del Molinar), junto a las

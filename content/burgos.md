@@ -20,6 +20,8 @@ sombra y está a 2.000 m); **Arlanza** y **Merindades** → los días de más ca
 
 → 🥾 **[Caminatas](./caminatas-burgos.html)** · 💦 **[Baños](./banos-burgos.html)**
 
+{{media:covarrubias}}
+
 - **Plan:** mañana de baño y picnic en **El Piélago**; comida y paseo por **Covarrubias** (uno de
   los pueblos medievales más bonitos de la provincia); tarde en el **Monasterio de Santo Domingo
   de Silos** (claustro románico).
@@ -28,12 +30,16 @@ sombra y está a 2.000 m); **Arlanza** y **Merindades** → los días de más ca
 - **Google Maps:** `Zona de baño El Piélago, Covarrubias` · `Covarrubias` · `Monasterio de Santo Domingo de Silos`
 - **Veredicto:** ⭐ **muy recomendable** — día relajado y el mejor baño familiar del viaje.
 
+{{media:silos}}
+
 ---
 
 ## Día 2 — Neila: circular corta de las Lagunas · 🟡
 *Sierra de la Demanda · ~1 h 30 en coche · montaña fresca, sin baño*
 
 → 🥾 **[Caminatas](./caminatas-burgos.html)**
+
+{{media:neila}}
 
 - **Plan:** salir temprano y hacer la circular por la mañana; comida en **Quintanar de la Sierra**;
   tarde corta en la **Necrópolis de Cuyacabras** o el nacimiento del río Arlanza.
@@ -50,6 +56,8 @@ sombra y está a 2.000 m); **Arlanza** y **Merindades** → los días de más ca
 *Noreste · ~1 h en coche · pueblos + cascadas + baño natural*
 
 → 🥾 **[Caminatas](./caminatas-burgos.html)** · 💦 **[Baños](./banos-burgos.html)**
+
+{{media:frias}}
 
 - **Plan:** mañana en **Tobera** (Paseo del Molinar y cascadas); mediodía en **Frías** (castillo,
   casas colgadas) y comida; tarde de chapuzón en la **Cascada del Peñón** (Pedrosa), a ~30 min de Frías.
