@@ -66,7 +66,8 @@ caminatas; aquí queda el plan realista, el recorte y lo que puede romper el dí
 
 ### Silverhorn -> Lake Louise
 
-- Tramo corto, pero buena oportunidad para hacer Parker Ridge, Wilcox o Herbert Lake según tiempo.
+- Tramo corto hacia el sur. **Parker Ridge y Wilcox quedan al norte**: hacedlos desde Silverhorn
+  (días 6-8), no este día. De camino sí encajan **Herbert Lake, Bow Lake o Peyto**.
 - Si vais a Lake Louise por la tarde, no contéis con parking en el lago: plan de camping/pueblo.
 
 ### Lake Louise -> Kootenay

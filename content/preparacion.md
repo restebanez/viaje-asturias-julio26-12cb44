@@ -10,6 +10,9 @@ y **cada noche** durante el viaje. El itinerario dice qué hacer; esta página e
 ### Documentos y reservas
 
 - Pasaportes/DNI, permisos de conducir y tarjeta sanitaria/seguro de viaje.
+- **eTA de Canadá** para **cada viajero, incluido Darío**: obligatoria para **volar** a Canadá,
+  **7 CAD** por persona (una solicitud por viajero), va ligada al pasaporte y dura ~5 años.
+  Sacadla con antelación en la web oficial de Canadá (no en intermediarios).
 - Reservas descargadas offline: vuelos, CanaDream, hoteles, campings, shuttles, tours y coche.
 - Tarjeta de crédito física para depósitos, gasolina, campings y fianzas.
 - Copia offline de este sitio: abrir las páginas importantes una vez con conexión.

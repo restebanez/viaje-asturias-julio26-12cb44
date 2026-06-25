@@ -360,6 +360,8 @@ posible lluvia o humo de incendios. Llevad:
 
 ## ✅ Pendientes y notas
 
+- 🛂 **eTA de Canadá** obligatoria para **volar** (7 CAD/persona, **incluido Darío**); sacadla
+  pronto, ligada al pasaporte → detalle en [Preparación](./preparacion.html).
 - ⚠️ **Sillita de niño** en la autocaravana (confirmar con CanaDream).
 - 🎟️ **Kananaskis Conservation Pass** — **OBLIGATORIO** para aparcar en Kananaskis/Bow Valley
   (camping final, **Troll Falls**, **Grotto Canyon**): **15 CAD/día** o **90 CAD/año**. El

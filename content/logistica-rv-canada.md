@@ -33,7 +33,7 @@ depósito hay que confirmar medidas, seguros, combustible, vaciado, propano y si
 | Moraine Lake | No coches particulares; shuttle/tour |
 | Lake Louise lakeshore | Mejor Park & Ride + shuttle; parking del lago se llena muy pronto |
 | Johnston Canyon | Mejor Roam 9 o madrugar mucho |
-| Cavell Road | Cerrado en 2026 y además límite histórico de longitud bajo para RV |
+| Cavell Road | Cerrada en 2026; además límite RV de Parks Canada (máx 7,5 m) |
 | Icefields Parkway | Sin cobertura larga; servicios escasos |
 | Sinclair Canyon / Hwy 93S | Revisar obras y retrasos |
 
@@ -54,14 +54,18 @@ depósito hay que confirmar medidas, seguros, combustible, vaciado, propano y si
 
 ### Sani-dump y agua
 
-- Canmore: 2801 Bow Valley Trail suele ser la opción más práctica.
-- Banff: Hawk Ave, útil pero no contar con agua potable.
+- Banff: estación municipal en **100 Hawk Ave** (agua **no potable**; pago con tarjeta).
+- Canmore: confirmad el sani-dump municipal en el momento (el del antiguo centro de visitantes de
+  Bow Valley Trail está **cerrado**); alternativa cercana: estaciones de **Alberta Parks en
+  Kananaskis (Bow Valley)**.
 - Jasper: Stan Wright Industrial Park / Hwy 93A.
 - Lake Louise y campings: confirmar disponibilidad en el momento; no asumir si no dormís allí.
 
 ### Propano
 
-- Canadian Tire Canmore y estaciones grandes.
+- **Canmore Outdoor Power Equipment** (8 Industrial Place): rellena cilindros y depósitos de
+  motorhome (llamad antes). Canadian Tire (8th St) solo si confirman relleno del depósito fijo de
+  la AC (a veces es solo intercambio de bombonas).
 - No dejarlo para el último día si el contrato exige nivel concreto.
 
 ---

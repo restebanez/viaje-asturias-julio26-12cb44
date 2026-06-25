@@ -11,7 +11,7 @@ Página de control para lo que puede romper un día si no está reservado o conf
 | Campings Parks Canada | Todo el viaje | Guardar confirmaciones offline |
 | Bow Valley Campground | 20-22 ago | Guardar confirmación Alberta Parks |
 | CanaDream | 28 jul / 22 ago | Confirmar sillita y hora de recogida/devolución |
-| Lake Louise / Moraine shuttle | 8-12 ago | Reservar al abrir cupos; llevar QR offline |
+| Lake Louise / Moraine shuttle | 8-12 ago | Reservar **al abrir: 15 abr 2026, 8:00 MDT** (40% ese día, 60% 2 días antes); QR offline |
 | Columbia Icefield Ice Explorer | 6-8 ago | Reservar si lo queréis hacer |
 | Maligne Lake Cruise | 3-6 ago | Reservar con antelación si el tiempo acompaña |
 | Kananaskis Conservation Pass | 20-22 ago | Comprar para Bow Valley/Troll/Grotto |

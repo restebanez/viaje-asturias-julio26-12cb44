@@ -75,7 +75,8 @@ e-bike (**e-bike solo 16+** → con e-bike Darío iría en tag-along/remolque tr
   [Banff Cycle](https://www.banffcycle.com/).
 - **Jasper (3–6 ago) — día de descanso.** Conectores llanos a **Lake Annette/Edith/Beauvert**
   (bici + baño). ⚠️ Confirmad zonas abiertas tras el incendio: [Parks Canada](https://parks.canada.ca/pn-np/ab/jasper/activ/experience/ete-summer/velo-bike).
-- **Canmore (20–22 ago) — bonus.** Carril del Bow hasta **Quarry Lake**, llano y junto a la devolución.
+- **Canmore (20–22 ago) — bonus.** **Bow River / West Bow River Pathway** (bici familiar llana);
+  **Quarry Lake** es corto pero cuesta arriba (o bus Roam 12). Junto a la devolución de la AC.
 
 ### No con Darío
 

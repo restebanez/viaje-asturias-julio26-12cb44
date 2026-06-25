@@ -93,7 +93,9 @@ termales, bosque quemado y montañas.
 
 - Radium Hot Springs: termas al pie del cañón.
 - Marble Canyon: agua turquesa dentro de una grieta profunda.
-- Stanley Glacier: bosque quemado en regeneración, geología y fósiles del Burgess Shale.
+- Stanley Glacier: bosque quemado en regeneración, geología y **fósiles del Burgess Shale**
+  (contexto; no se recogen — la visita guiada de fósiles de Parks Canada es otro plan, largo y
+  para niños mayores).
 - Sinclair Canyon: entrada estrecha y rojiza hacia Radium.
 
 ---
