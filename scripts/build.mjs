@@ -111,6 +111,7 @@ const LUGARES = ${safeJson(mapPoints)};
   for (const p of LUGARES) {
     const m = L.circleMarker([p.lat, p.lng], { radius: 8, color: '#fff', weight: 2, fillColor: p.color, fillOpacity: 0.95 }).addTo(map);
     const links = ['<a href="' + p.maps + '" target="_blank" rel="noopener">Google Maps</a>'];
+    if (p.comollegar) links.push('<a href="' + p.comollegar + '" target="_blank" rel="noopener">🧭 Cómo llegar</a>');
     if (p.wikiloc) links.push('<a href="' + p.wikiloc + '" target="_blank" rel="noopener">Wikiloc</a>');
     if (p.ruta) links.push('<a href="' + p.ruta + '" target="_blank" rel="noopener">Ruta</a>');
     if (p.video) links.push('<a href="' + p.video + '" target="_blank" rel="noopener">Vídeo</a>');
@@ -173,11 +174,13 @@ function renderMd(file, byId) {
   return { titulo, html };
 }
 
-function mapPointsDe(lug) {
+const dirUrl = (o, l) => `https://www.google.com/maps/dir/?api=1&origin=${o.lat},${o.lng}&destination=${l.lat},${l.lng}&travelmode=driving`;
+function mapPointsDe(lug, origin = null) {
   return lug.filter((l) => typeof l.lat === 'number' && typeof l.lng === 'number').map((l) => ({
     nombre: l.nombre, dia: l.dia || '', color: colorDe(l.semaforo), lat: l.lat, lng: l.lng,
     maps: mapsUrl(l.maps_query || l.nombre), wikiloc: l.wikiloc || null, ruta: l.ruta || null, video: l.video || null,
     tiempo: l.tiempo || null,
+    comollegar: origin && (l.lat !== origin.lat || l.lng !== origin.lng) ? dirUrl(origin, l) : null,
   }));
 }
 
@@ -197,8 +200,10 @@ function renderPart(part) {
   // Páginas por destino: mapa filtrado por base (camping + sus caminatas/playas)
   for (const d of part.dias || []) {
     const { titulo: dt, html: dh } = renderMd(d.content, byId);
+    const baseLug = lug.find((l) => l.tipo === 'base' && l.base === d.base);
+    const origin = baseLug ? { lat: baseLug.lat, lng: baseLug.lng } : null;
     const dpts = d.base
-      ? mapPointsDe(lug.filter((l) => l.base === d.base && (!d.tipos || d.tipos.includes(l.tipo))))
+      ? mapPointsDe(lug.filter((l) => l.base === d.base && (!d.tipos || d.tipos.includes(l.tipo))), origin)
       : (d.mapAll ? mapPointsDe(lug) : null);
     const dout = pageShell({
       titulo: dt || d.titulo, nav: navHtml(part), hero: null,

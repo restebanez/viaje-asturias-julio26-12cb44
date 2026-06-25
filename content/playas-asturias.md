@@ -10,7 +10,7 @@ Cantábrico: oleaje y agua fresca → vigilad a Darío en el agua.
 
 ### San Antolín 🟢
 {{media:sanantolin}}
-🏖️ arena · 🅿️ parking · 🚗 ~40 min de Cangas · poca sombra
+🏖️ arena · 🅿️ parking · 🚗 ~40 min de Cangas · poca sombra · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.44273,-4.86868&travelmode=driving)
 
 Arenal amplio y abierto, con río y verde detrás; al ser tan grande **nunca se siente
 abarrotada** aunque haya gente. **Por qué ir:** espacio y paz para que el peque juegue sin
@@ -18,14 +18,14 @@ agobio, lejos de la "postal con cola". **Gente:** 🟢. ⚠️ playa abierta: ol
 
 ### Playa de Vega 🟡
 {{media:vega}}
-🏖️ arena · 🅿️ parking grande · 🚗 ~35 min de Cangas
+🏖️ arena · 🅿️ parking grande · 🚗 ~35 min de Cangas · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.48018,-5.14052&travelmode=driving)
 
 Playa larga de arena, ambiente familiar y buen aparcamiento; popular entre surfistas.
 **Por qué ir:** otra apuesta segura de espacio y fácil de aparcar. **Gente:** 🟡.
 
 ### Cuevas del Mar 🔴
 {{media:cuevas}}
-🪨 arena + farallones · 🛟 socorrista en verano · 🅿️ parking pequeño · marea **baja** para las cuevas · 🚗 ~40 min
+🪨 arena + farallones · 🛟 socorrista en verano · 🅿️ parking pequeño · marea **baja** para las cuevas · 🚗 ~40 min · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.45649,-4.9384&travelmode=driving)
 
 El mar y un río han esculpido **farallones y arcos de roca** que emergen de la arena; con marea
 baja se abren pasadizos entre las rocas. De las playas más fotogénicas de Asturias. **Por qué
@@ -34,7 +34,7 @@ pequeño) → llegad **9:30–10:00** y con marea baja.
 
 ### La Griega (Colunga) 🟡
 {{media:griega}}
-🏖️ arena · 🛟 salvamento (1 jul–9 sep) · 🅿️ parking amplio (100+) · 🦕 huellas de dinosaurio · 🚗 ~50 min (de camino al aeropuerto)
+🏖️ arena · 🛟 salvamento (1 jul–9 sep) · 🅿️ parking amplio (100+) · 🦕 huellas de dinosaurio · 🚗 ~50 min (de camino al aeropuerto) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.50146,-5.25972&travelmode=driving)
 
 Arenal familiar y resguardado, con **piscinas naturales en bajamar** ideales para niños y
 **huellas de dinosaurio** a ~500 m (lado derecho, con marea baja; calzado cerrado). **Por qué
@@ -42,7 +42,7 @@ ir:** cómoda y con aliciente para el peque; perfecta el **día de salida**, por
 **Gente:** 🟡.
 
 ### Playa fluvial de Aballe 🟢
-🌊 río (Sella) · 🌳 sombra · sin servicios · 🚗 ~15 min de Cangas · 🗺️ [Mapa](https://www.google.com/maps/search/?api=1&query=Playa+fluvial+de+Aballe%2C+Parres)
+🌊 río (Sella) · 🌳 sombra · sin servicios · 🚗 ~15 min de Cangas · 🗺️ [Mapa](https://www.google.com/maps/search/?api=1&query=Playa+fluvial+de+Aballe%2C+Parres) · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=43.35018,-5.13215&destination=43.32727,-5.1435&travelmode=driving)
 
 Zona de baño señalizada del Sella, con **corriente suave apta para niños** y sombra de árboles;
 un rincón tranquilo y poco conocido. **Por qué ir:** chapuzón fácil y cercano sin bajar a la

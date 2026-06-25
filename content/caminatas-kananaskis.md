@@ -7,21 +7,21 @@ Darío tolera pendiente y roca; lo único a evitar son los **cortados**.
 **Gente:** 🟢 tranquila · 🟡 media · 🔴 muy concurrida
 
 ### Many Springs ⭕ 🚶
-1,6 km ⭕ · llano · ~0,5 h · muy fácil · 🚶 desde el camping · sin cortados
+1,6 km ⭕ · llano · ~0,5 h · muy fácil · 🚶 desde el camping · sin cortados · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.049,-115.068&destination=51.056,-115.056&travelmode=driving)
 
 Bucle llano por un humedal de **manantiales** de agua clara dentro del Bow Valley PP, con mirador.
 **Por qué hacerla:** sale casi del propio camping, perfecta para estirar las piernas el último día.
 **Gente:** 🟢.
 
 ### Troll Falls
-3,5 km i/v · +60 m · ~1–1,5 h · fácil · 🚐 (Stoney/Kananaskis Village) · sin cortados · 🚗 ~40 min del camping · [Ruta](https://www.alltrails.com/trail/canada/alberta/troll-falls)
+3,5 km i/v · +60 m · ~1–1,5 h · fácil · 🚐 (Stoney/Kananaskis Village) · sin cortados · 🚗 ~40 min del camping · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.049,-115.068&destination=50.94829,-115.14729&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/troll-falls)
 
 Paseo fácil por bosque hasta una **cascada** acogedora; muy familiar. **Por qué hacerla:** corta,
 bonita y de las más fáciles de Kananaskis. **Gente:** 🟡. (No subáis por los senderos sueltos de
 alrededor de la cascada: hay riesgo de desprendimientos.)
 
 ### Grotto Canyon
-4 km i/v · +80 m · ~1,5 h · fácil · 🚐 (Hwy 1A) · sin cortados · 🚗 ~30 min del camping · [Ruta](https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail)
+4 km i/v · +80 m · ~1,5 h · fácil · 🚐 (Hwy 1A) · sin cortados · 🚗 ~30 min del camping · [🧭 Cómo llegar](https://www.google.com/maps/dir/?api=1&origin=51.049,-115.068&destination=51.084,-115.264&travelmode=driving) · [Ruta](https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail)
 
 Se camina por el **lecho de grava** de un cañón hasta una cascada, una pequeña cueva y unas
 **pictografías** antiguas. **Por qué hacerla:** sensación de aventura sin peligro (vas por el fondo)
