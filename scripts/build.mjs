@@ -50,6 +50,7 @@ function mediaCard(l) {
   if (l.video) links.push(`<a href="${esc(l.video)}" target="_blank" rel="noopener">▶︎ Vídeo</a>`);
   if (l.maps_query) links.push(`<a href="${mapsUrl(l.maps_query)}" target="_blank" rel="noopener">🗺️ Mapa</a>`);
   if (l.wikiloc) links.push(`<a href="${esc(l.wikiloc)}" target="_blank" rel="noopener">🥾 Wikiloc</a>`);
+  if (l.ruta) links.push(`<a href="${esc(l.ruta)}" target="_blank" rel="noopener">🥾 Ruta</a>`);
   const linksHtml = links.length ? `<div class="media-links">${links.join('<span class="sep">·</span>')}</div>` : '';
   return `<figure class="media-dia">${img}${cap}${linksHtml}</figure>`;
 }
@@ -75,7 +76,7 @@ function renderPage(page) {
 
   const puntos = lugares
     .filter((l) => typeof l.lat === 'number' && typeof l.lng === 'number')
-    .map((l) => ({ nombre: l.nombre, dia: l.dia || '', color: colorDe(l.semaforo), lat: l.lat, lng: l.lng, maps: mapsUrl(l.maps_query || l.nombre), wikiloc: l.wikiloc || null, video: l.video || null }));
+    .map((l) => ({ nombre: l.nombre, dia: l.dia || '', color: colorDe(l.semaforo), lat: l.lat, lng: l.lng, maps: mapsUrl(l.maps_query || l.nombre), wikiloc: l.wikiloc || null, ruta: l.ruta || null, video: l.video || null }));
 
   const hero = lugares.filter((l) => l.foto).find((l) => l.hero) || lugares.find((l) => l.foto) || null;
   const heroHtml = hero ? `<div class="hero-img" style="background-image:url('./assets/img/${esc(hero.foto)}')"></div>` : '';
@@ -133,6 +134,7 @@ const LUGARES = ${safeJson(puntos)};
     const m = L.circleMarker([p.lat, p.lng], { radius: 8, color: '#fff', weight: 2, fillColor: p.color, fillOpacity: 0.95 }).addTo(map);
     const links = ['<a href="' + p.maps + '" target="_blank" rel="noopener">Google Maps</a>'];
     if (p.wikiloc) links.push('<a href="' + p.wikiloc + '" target="_blank" rel="noopener">Wikiloc</a>');
+    if (p.ruta) links.push('<a href="' + p.ruta + '" target="_blank" rel="noopener">Ruta</a>');
     if (p.video) links.push('<a href="' + p.video + '" target="_blank" rel="noopener">Vídeo</a>');
     m.bindPopup('<b>' + p.nombre + '</b>' + (p.dia ? '<br>' + p.dia : '') + '<br>' + links.join(' · '));
     m.bindTooltip(p.nombre);

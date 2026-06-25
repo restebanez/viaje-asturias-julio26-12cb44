@@ -82,7 +82,7 @@
 
 - id: two_jack
   nombre: Two Jack Lake
-  dia: "Banff"
+  dia: "Banff · 💦"
   semaforo: "🟢"
   maps_query: "Two Jack Lake, Banff"
   lat: 51.22881
@@ -90,11 +90,12 @@
 
 - id: johnson_lake
   nombre: Johnson Lake
-  dia: "Banff"
+  dia: "Banff · 💦 baño"
   semaforo: "🟢"
   maps_query: "Johnson Lake, Banff"
   lat: 51.19653
   lng: -115.48313
+  ruta: "https://www.alltrails.com/trail/canada/alberta/johnson-lake"
 
 # ---------- Yoho (30 jul – 3 ago) ----------
 - id: camp_yoho
@@ -125,6 +126,7 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:Emerald_Lake_Yoho_BC.jpg"
   licencia: "CC BY-SA 4.0"
   video: "https://www.youtube.com/watch?v=oT_-r-nkeug"
+  ruta: "https://www.alltrails.com/trail/canada/british-columbia/emerald-lake-loop"
 
 - id: takakkaw
   nombre: Takakkaw Falls
@@ -205,7 +207,7 @@
 
 - id: pyramid_lake
   nombre: Pyramid Lake
-  dia: "Jasper"
+  dia: "Jasper · 💦 baño"
   semaforo: "🟢"
   maps_query: "Pyramid Lake, Jasper"
   lat: 52.92232
@@ -376,6 +378,7 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:Shale_formation,_Marble_Canyon,_Kootenay_National_Park,_British_Columbia,_2025-07-11.jpg"
   licencia: "CC BY-SA 4.0"
   video: "https://www.youtube.com/watch?v=huDLgHUYEJk"
+  ruta: "https://www.alltrails.com/trail/canada/british-columbia/marble-canyon"
 
 # ---------- Kananaskis / salida (20–22 ago) ----------
 - id: camp_bowvalley
@@ -393,3 +396,75 @@
   maps_query: "Canmore, Alberta"
   lat: 51.08669
   lng: -115.34811
+
+# ---------- Caminatas (≤4 h) ----------
+- id: johnston_canyon
+  nombre: Johnston Canyon (cascadas)
+  dia: "Banff · caminata"
+  semaforo: "🟢"
+  maps_query: "Johnston Canyon, Banff"
+  lat: 51.2456
+  lng: -115.8402
+  ruta: "https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-upper-falls"
+
+- id: wapta_falls
+  nombre: Wapta Falls (caminata)
+  dia: "Yoho · caminata"
+  semaforo: "🟢"
+  maps_query: "Wapta Falls Trailhead, Yoho"
+  lat: 51.1700
+  lng: -116.5550
+  ruta: "https://www.alltrails.com/trail/canada/british-columbia/wapta-falls"
+
+- id: valley_five_lakes
+  nombre: Valley of the Five Lakes
+  dia: "Jasper · caminata · 💦"
+  semaforo: "🟢"
+  maps_query: "Valley of the Five Lakes, Jasper"
+  lat: 52.80805
+  lng: -118.02221
+  ruta: "https://www.alltrails.com/trail/canada/alberta/valley-of-the-five-lakes-loop"
+
+- id: lake_annette
+  nombre: Lake Annette (baño)
+  dia: "Jasper · caminata · 💦"
+  semaforo: "🟢"
+  maps_query: "Lake Annette, Jasper"
+  lat: 52.90156
+  lng: -118.04878
+  ruta: "https://www.alltrails.com/trail/canada/alberta/lake-annette-loop"
+
+- id: parker_ridge
+  nombre: Parker Ridge (glaciar Saskatchewan)
+  dia: "Icefields · caminata"
+  semaforo: "🟢"
+  maps_query: "Parker Ridge Trailhead, Icefields Parkway"
+  lat: 52.1928
+  lng: -117.1328
+  ruta: "https://www.alltrails.com/trail/canada/alberta/parker-ridge"
+
+- id: herbert_lake
+  nombre: Herbert Lake (baño)
+  dia: "Lake Louise · 💦"
+  semaforo: "🟢"
+  maps_query: "Herbert Lake, Banff"
+  lat: 51.4730
+  lng: -116.2350
+
+- id: lake_agnes
+  nombre: Lake Agnes Tea House
+  dia: "Lake Louise · caminata"
+  semaforo: "🟢"
+  maps_query: "Lake Agnes Tea House, Lake Louise"
+  lat: 51.4248
+  lng: -116.2335
+  ruta: "https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail"
+
+- id: grassi_lakes
+  nombre: Grassi Lakes (caminata)
+  dia: "Canmore · caminata"
+  semaforo: "🟢"
+  maps_query: "Grassi Lakes Trailhead, Canmore"
+  lat: 51.08132
+  lng: -115.39505
+  ruta: "https://www.alltrails.com/trail/canada/alberta/grassi-lakes-interpretive-loop"

@@ -48,6 +48,7 @@ Primer contacto con las Rocosas, muy cerca del pueblo de Banff.
 - **Johnson Lake**: pequeño, tranquilo y bueno para un chapuzón/paseo fácil con el peque.
 - **Banff Gondola** (Sulphur Mountain): teleférico a lo alto con pasarela y vistas 360°.
 - **Pueblo de Banff**: Bow Falls, Banff Avenue.
+- 🥾 **Caminatas (≤4 h):** [Johnson Lake Loop](https://www.alltrails.com/trail/canada/alberta/johnson-lake) — 2,9 km, ~1 h, fácil y con **💦 baño** (de los lagos más templados de la zona). · [Johnston Canyon](https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-upper-falls) hasta las cascadas (Upper Falls 5,5 km, ~2–2,5 h) por pasarelas; **madrugar** (muy concurrido), agua helada (sin baño).
 
 {{media:banff_gondola}}
 
@@ -65,6 +66,7 @@ Cruzáis a la Columbia Británica (Yoho). Base en **Field**.
 - **Natural Bridge**: puente de roca esculpido por el río Kicking Horse.
 - **Spiral Tunnels**: mirador donde se ve pasar el **tren** entrando en los túneles en
   espiral (al peque le encantará).
+- 🥾 **Caminatas (≤4 h):** [Emerald Lake Loop](https://www.alltrails.com/trail/canada/british-columbia/emerald-lake-loop) — 5,3 km llanos, ~1 h 30 (vuelta al lago; chapuzón solo para valientes, muy fría). · [Wapta Falls](https://www.alltrails.com/trail/canada/british-columbia/wapta-falls) — 4,5 km, ~1 h 15, fácil y apta para el peque.
 
 {{media:takakkaw}}
 
@@ -85,6 +87,7 @@ El parque más grande y salvaje. Subís por la Icefields Parkway hasta Jasper.
 - **Miette Hot Springs** (~60 km): las termas más calientes de las Rocosas; cerca, paseo
   corto a las ruinas del antiguo balneario.
 - Buen sitio para **cenar de restaurante** (el pueblo de Jasper tiene oferta).
+- 🥾 **Caminatas (≤4 h):** [Valley of the Five Lakes](https://www.alltrails.com/trail/canada/alberta/valley-of-the-five-lakes-loop) — 5,5 km, ~2 h, lagos turquesa con **💦 zonas de baño**. · [Lake Annette Loop](https://www.alltrails.com/trail/canada/alberta/lake-annette-loop) — 2,7 km llanos (cochecito ok), de los lagos **más cálidos para bañarse 💦**.
 
 {{media:pyramid_lake}}
 
@@ -108,6 +111,7 @@ Louise. (De camino/alrededor del campamento.)
 - **Mount Edith Cavell** y el **Angel Glacier** (carretera estrecha de montaña; mirador y
   sendero a la laguna glaciar).
 - **Peyto Lake**: el mirador del lago con forma de lobo, de los más fotografiados.
+- 🥾 **Caminata (≤4 h):** [Parker Ridge](https://www.alltrails.com/trail/canada/alberta/parker-ridge) — 5 km ida y vuelta, ~2 h 30, +250 m, hasta ver el **glaciar Saskatchewan** (alpina y ventosa; sin baño). De camino, **Herbert Lake** es bueno para un **💦 chapuzón rápido**.
 
 {{media:athabasca_falls}}
 
@@ -126,6 +130,7 @@ Louise. (De camino/alrededor del campamento.)
 
 - **Lake Louise**: el lago icónico frente al hotel y el glaciar Victoria.
 - **Moraine Lake**: el del Valle de los Diez Picos (el de los billetes antiguos).
+- 🥾 **Caminata (≤4 h):** [Lake Agnes Tea House](https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail) — 7,4 km, ~3–3,5 h, +400 m: sube a una casa de té histórica junto al Mirror Lake y el lago Agnes (alpino, sin baño).
 
 > 🔴 **Importante (multitudes + reservas):** **Moraine Lake está cerrado a coches
 > particulares** — solo se llega en **shuttle de Parks Canada (con reserva), Roam Transit
@@ -147,6 +152,7 @@ De vuelta a BC, parque más tranquilo y con termas.
 - **Radium Hot Springs**: la piscina termal más grande de Canadá, junto al cañón rojo.
 - **Marble Canyon**: cañón estrecho con pasarelas sobre el agua turquesa.
 - **Paint Pots** y otros **cañones** para caminar.
+- 🥾 **Caminata (≤4 h):** [Marble Canyon](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon) — ~1,6 km, fácil, cañón con pasarelas sobre agua turquesa. ⚠️ **Comprobad apertura** (cierre temporal anunciado en feb 2026); si está cerrado, **Paint Pots** o el **Juniper Trail** (Radium). El baño aquí son las **termas de Radium ♨️**.
 
 {{media:marble_canyon}}
 
@@ -160,6 +166,9 @@ De vuelta a BC, parque más tranquilo y con termas.
 Segunda tanda en Banff para rematar lo que falte: **Banff Gondola**, **Johnston Canyon**,
 **Lake Minnewanka**, **Bow Valley Parkway**, pueblo y termas (Banff Upper Hot Springs).
 
+🥾 **Caminatas (≤4 h):** lo que faltara de la primera tanda — **Johnston Canyon**,
+**Johnson Lake** (💦) o tramos del **Bow Valley Parkway**.
+
 ---
 
 ## 20–22 ago · Bow Valley (Kananaskis) · 🔵
@@ -169,6 +178,7 @@ Segunda tanda en Banff para rematar lo que falte: **Banff Gondola**, **Johnston 
 Días tranquilos en Kananaskis y compras/paseo por **Canmore** antes de devolver la
 autocaravana.
 
+- 🥾 **Caminata (≤4 h):** [Grassi Lakes](https://www.alltrails.com/trail/canada/alberta/grassi-lakes-interpretive-loop) (Canmore) — 3,7 km, ~1–1,5 h, dos lagos turquesa al pie de un acantilado, con cascada y pictografías (lagos pequeños y fríos: más para mojar los pies que para nadar).
 - **Sáb 22 ago:** devolver autocaravana **08:00–10:00** en CanaDream → aeropuerto → vuelo
   **19:00**. (Hay margen de sobra; CanaDream está a ~10 min del aeropuerto.)
 
@@ -189,10 +199,26 @@ autocaravana.
 
 ---
 
+## 💦 Dónde darse un chapuzón
+
+Casi todos los lagos famosos son **glaciares y van helados** (Moraine, Lake Louise, Peyto,
+Emerald, Minnewanka): preciosos para ver, no para nadar. Los que **sí** se disfrutan:
+
+- **Johnson Lake** (Banff) — el mejor para bañarse cerca de Banff, agua más templada.
+- **Two Jack Lake** (Banff) — fresco, pero la gente se baña.
+- **Lake Annette** y **Lake Edith** (Jasper) — de los más cálidos de las Rocosas, con "playa".
+- **Pyramid Lake** (Jasper) — baño tranquilo.
+- **Valley of the Five Lakes** (Jasper) — algunas pozas templadas.
+- **Herbert Lake** (cerca de Lake Louise) — pequeño y más cálido, chapuzón rápido.
+- ♨️ **Termas:** Radium Hot Springs, Banff Upper Hot Springs y Miette Hot Springs.
+
+---
+
 ## ✅ Pendientes y notas
 
 - ⚠️ **Sillita de niño** en la autocaravana (confirmar con CanaDream).
 - **Parks Canada Discovery Pass** (pase de parques) antes de entrar.
 - **Reservar shuttle de Moraine Lake** (y plan para Lake Louise) con antelación.
 - Reconfirmar el **Ice Explorer / Skywalk** del Columbia Icefield (suele agotarse en verano).
+- Comprobar **apertura de Marble Canyon** (Kootenay): cierre temporal anunciado en feb 2026.
 - Bow Valley: las fechas no se podían cambiar hasta el 22 jun 2026 (ya pasado).
