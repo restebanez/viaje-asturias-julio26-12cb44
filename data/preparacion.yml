@@ -1,0 +1,3 @@
+# Preparación es una página solo-texto (checklist común): sin mapa ni fotos.
+# Este archivo existe para que build.mjs no apunte a un YAML inexistente.
+[]

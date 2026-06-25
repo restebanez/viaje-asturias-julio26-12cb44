@@ -29,12 +29,19 @@ const LEG_CANADA = [
 // { slug, titulo, content } -> genera "<base>-<slug>.html" y un índice en la parte.
 const PARTS = [
   {
+    output: 'preparacion.html', nav: 'Preparación', content: 'preparacion.md', data: 'preparacion.yml',
+    fechas: 'Checklist común · Asturias + Canadá', desc: 'Qué llevar, apps, documentos y rutina de revisión antes de cada día.',
+    legend: null, dias: [],
+  },
+  {
     output: 'asturias.html', nav: 'Asturias', content: 'asturias.md', data: 'lugares-asturias.yml',
     fechas: '20–24 julio 2026', desc: 'Cangas de Onís: rutas con baño natural, playa y mapa.',
-    legend: LEG_ASTURIAS, subLabel: '🏖️🥾 Planes',
+    legend: LEG_ASTURIAS, subLabel: '🏖️🥾 Playas y caminatas',
     dias: [
+      { slug: 'operativo-asturias', titulo: 'Operativo', content: 'operativo-asturias.md' },
       { slug: 'playas-asturias', titulo: '🏖️ Playas', content: 'playas-asturias.md', base: 'ast', tipos: ['base', 'playa'] },
       { slug: 'caminatas-asturias', titulo: '🥾 Caminatas', content: 'caminatas-asturias.md', base: 'ast', tipos: ['base', 'caminata'] },
+      { slug: 'contexto-asturias', titulo: 'Contexto', content: 'contexto-asturias.md' },
     ],
   },
   {
@@ -42,6 +49,12 @@ const PARTS = [
     fechas: '26 jul – 23 ago 2026 · autocaravana', desc: 'Rockies en autocaravana: Banff, Yoho, Jasper, Lake Louise, Kootenay.',
     legend: LEG_CANADA, subLabel: '🥾 Caminatas por base',
     dias: [
+      { slug: 'operativo-canada', titulo: 'Operativo', content: 'operativo-canada.md' },
+      { slug: 'logistica-rv-canada', titulo: 'RV', content: 'logistica-rv-canada.md' },
+      { slug: 'reservas-canada', titulo: 'Reservas', content: 'reservas-canada.md' },
+      { slug: 'familia-canada', titulo: 'Con Darío', content: 'familia-canada.md' },
+      { slug: 'comer-canada', titulo: 'Comer/comprar', content: 'comer-canada.md' },
+      { slug: 'contexto-canada', titulo: 'Contexto', content: 'contexto-canada.md' },
       { slug: 'caminatas-banff', titulo: 'Banff', content: 'caminatas-banff.md', base: 'banff' },
       { slug: 'caminatas-yoho', titulo: 'Yoho', content: 'caminatas-yoho.md', base: 'yoho' },
       { slug: 'caminatas-jasper', titulo: 'Jasper', content: 'caminatas-jasper.md', base: 'jasper' },
@@ -189,8 +202,10 @@ function renderPart(part) {
   const byId = new Map(lug.map((l) => [String(l.id || '').toLowerCase(), l]));
   const { titulo, html } = renderMd(part.content, byId);
   // Índice de días (solo si la parte tiene `dias` definidos)
+  const linkDia = (d) => `<a href="./${esc(d.slug)}.html">${esc(d.titulo)}</a>`;
+  const lineaSub = (label, ds) => (ds.length ? `<p class="sub-links">${esc(label)}: ${ds.map(linkDia).join(' · ')}</p>` : '');
   const diasIndex = part.dias && part.dias.length
-    ? `<p class="sub-links">${esc(part.subLabel || 'Páginas')}: ${part.dias.map((d) => `<a href="./${esc(d.slug)}.html">${esc(d.titulo)}</a>`).join(' · ')}</p>`
+    ? lineaSub('📋 Guías', part.dias.filter((d) => !d.base)) + lineaSub(part.subLabel || 'Páginas', part.dias.filter((d) => d.base))
     : '';
   const out = pageShell({
     titulo: titulo || part.nav, nav: navHtml(part), hero: (heroDe(lug) || {}).foto,
@@ -264,5 +279,5 @@ console.log('OK · index.html (portada)');
 for (const part of PARTS) {
   if (!existsSync(join(root, 'content', part.content))) { console.warn('(salto %s)', part.output); continue; }
   const n = renderPart(part);
-  console.log(`OK · ${part.output} · ${n} puntos${part.dias.length ? ` · ${part.dias.length} días` : ''}`);
+  console.log(`OK · ${part.output} · ${n} puntos${part.dias.length ? ` · ${part.dias.length} subpáginas` : ''}`);
 }

@@ -293,17 +293,10 @@ Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
 
 ---
 
-## 🌧️ Plan A / plan B (lluvia o humo) / plan corto
+## 🌧️ Plan A / plan B
 
-| Etapa | Plan A (buen día) | Plan B (lluvia/humo) | Corto con Darío |
-|---|---|---|---|
-| Banff | C-Level Cirque / Johnston | Banff Gondola + Upper Hot Springs + pueblo | Johnson Lake (baño) |
-| Yoho | Paget Lookout | Field + Natural Bridge + Spiral Tunnels (en coche) | Emerald Lake Loop |
-| Jasper | Sulphur Skyline | Crucero Maligne Lake (techo) / Miette / restaurantes | Lake Annette (baño) |
-| Icefields | Wilcox Pass / Parker Ridge | Columbia Icefield (Ice Explorer + centro) | Athabasca/Sunwapta Falls |
-| Lake Louise | Plain of Six Glaciers | Lakeshore corto + Lake Louise village | Lakeshore |
-| Kootenay | Stanley Glacier | Radium Hot Springs (termas) | Marble Canyon |
-| Bow Valley | Grotto Canyon | Canmore (pueblo) + Quarry Lake | Many Springs |
+La matriz por etapa (plan fuerte / suave / recorte) y el **plan B por lluvia o humo** están en
+**[Operativo](./operativo-canada.html)**.
 
 ---
 
@@ -330,54 +323,22 @@ Explorer" (Gondola + crucero Banff + Columbia Icefield) ~258 $. **Entrada a parq
 
 ## 🚐 Logística de la autocaravana
 
-- **Vaciado (sani-dump):** **Canmore** (2801 Bow Valley Trail, el mejor), Banff (Hawk Ave, ~5 $,
-  sin agua potable), Jasper (Stan Wright Ind. Park, Hwy 93A) y la mayoría de campings (Lake Louise…).
-- **Agua potable:** en los campings (pequeña tasa, aunque no durmáis allí).
-- **Propano:** Canadian Tire (8th St, Canmore) y estaciones grandes.
-- **Compra:** grande y más barata en **Calgary** (antes de arrancar) y **Canmore** (Save-On-Foods/
-  Safeway). En Banff/Jasper/Lake Louise hay tiendas (más caras); **Field y Saskatchewan Crossing**
-  muy limitados.
-- ⚠️ **Icefields Parkway: ~230 km sin cobertura** → repostad, llenad agua y **descargad mapas
-  offline** antes (en Lake Louise o Jasper). **Última gasolina fiable: Lake Louise / Jasper**;
-  Saskatchewan Crossing es la única intermedia (cara y limitada). Gasolina escasa y cara dentro
-  de los parques.
+Vaciado (sani-dump), agua, propano, reglas de conducción y zonas delicadas → **[RV](./logistica-rv-canada.html)**.
+Recordatorio clave: **Icefields Parkway ~230 km sin cobertura** → repostad y descargad mapas
+**antes** (última gasolina fiable: Lake Louise / Jasper).
 
 ---
 
 ## 💦 Dónde darse un chapuzón
 
-Casi todos los lagos famosos son **glaciares y van helados** (Moraine, Lake Louise, Peyto,
-Emerald, Minnewanka): preciosos para ver, no para nadar. Los que **sí** se disfrutan:
-
-- **Johnson Lake** (Banff) — el mejor para bañarse cerca de Banff, agua más templada.
-- **Two Jack Lake** (Banff) — fresco, pero la gente se baña.
-- **Lake Annette** y **Lake Edith** (Jasper) — de los más cálidos de las Rocosas, con "playa".
-- **Pyramid Lake** (Jasper) — baño tranquilo.
-- **Valley of the Five Lakes** (Jasper) — algunas pozas templadas.
-- **Herbert Lake** (cerca de Lake Louise) — pequeño y más cálido, chapuzón rápido.
-- **Quarry Lake** (Canmore) — lago de pueblo, de los más cálidos; ideal el último día.
-- ♨️ **Termas:** Radium Hot Springs, Banff Upper Hot Springs y Miette Hot Springs.
+Los lagos famosos van helados (mirar, no nadar). Los que **sí** se disfrutan —Johnson, Two Jack,
+Lake Annette/Edith, Pyramid, Herbert, Quarry— y las termas, en **[Con Darío](./familia-canada.html)**.
 
 ---
 
-## 🚲 Días de bici (alquiler por día)
+## 🚲 Días de bici
 
-Merece la pena **un día suelto de bici**, alquilando en el sitio (no llevéis bicis en la AC:
-almacenaje, robo y portabicis). Para Darío: **bici infantil, _tag-along_ (semitándem) o
-remolque** — resérvalo con antelación (en agosto vuelan). Adultos: híbrida o **e-bike** (ojo:
-**e-bike solo 16+**, así que con e-bike Darío iría en tag-along/remolque tras una bici normal).
-
-- 🚲 **Banff — 2ª estancia (16–20 ago), el mejor día.** Llano y escénico: **pueblo → Bow River →
-  Vermilion Lakes**, o subir en bici el tramo asfaltado a **Sundance Canyon** y hacer el bucle a
-  pie. Alquiler: [Bike Banff](https://bikebanff.com/bike-rentals/) ·
-  [Banff Cycle](https://www.banffcycle.com/) (tienen infantiles, tag-along y remolques).
-- 🚲 **Jasper (3–6 ago) — día de descanso.** Red de conectores llana: **Lake Annette / Edith /
-  Lac Beauvert** (bici + baño en lagos cálidos). ⚠️ Confirmad qué zonas siguen abiertas tras el
-  incendio de 2024: [Parks Canada — cycling in Jasper](https://parks.canada.ca/pn-np/ab/jasper/activ/experience/ete-summer/velo-bike).
-- 🚲 **Canmore (20–22 ago) — bonus fácil.** Carril del Bow + Policeman's Creek hasta **Quarry
-  Lake** (chapuzón), llano y junto a la devolución de la AC.
-- 🚫 **No en bici con niño:** Lake Louise/Moraine (carretera de montaña → mejor shuttle), Yoho,
-  Kootenay e Icefields Parkway (son de coche + caminata).
+Un día suelto de bici (Banff 2ª estancia, Jasper, Canmore) con alquileres y avisos → **[Con Darío](./familia-canada.html)**.
 
 ---
 
