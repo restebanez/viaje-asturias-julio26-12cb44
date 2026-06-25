@@ -1,6 +1,6 @@
 # Datos de mapa de la parte Burgos. Coordenadas reales (geocodificadas con OpenStreetMap).
-# tipo: base | caminata | bano | (vacío = sitio del mapa principal)
-# base: 'bur' agrupa en el mapa de su subpágina. El enlace Maps usa maps_query.
+# tipo: base (Burgos). El resto se agrupa por `zona` (arlanza | neila | merindades) → mapa de
+# cada subpágina por zona. El mapa principal muestra todo. El enlace Maps usa maps_query.
 
 - id: burgos
   nombre: Burgos (base)
@@ -12,12 +12,12 @@
   lat: 42.34485
   lng: -3.68125
 
+# --- Zona Arlanza (Día 1) ---
 - id: covarrubias
   nombre: Covarrubias (paseo + ribera del Arlanza)
-  dia: "Día 1"
+  dia: "Día 1 · 🥾"
   semaforo: "🟡"
-  tipo: caminata
-  base: bur
+  zona: arlanza
   tiempo: "🚗 ~40 min de Burgos"
   maps_query: "Covarrubias, Burgos"
   lat: 42.05929
@@ -27,12 +27,36 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:Vista_A%C3%A9rea_Covarrubias_Puente.jpg"
   licencia: "CC BY-SA 4.0"
 
+- id: pielago
+  nombre: El Piélago (baño en el Arlanza)
+  dia: "Día 1 · 💦"
+  semaforo: "🟡"
+  zona: arlanza
+  tiempo: "🚗 ~40 min de Burgos"
+  maps_query: "Zona de baño El Piélago, Covarrubias"
+  lat: 42.0631
+  lng: -3.4361
+
+- id: silos
+  nombre: Monasterio de Santo Domingo de Silos
+  dia: "Día 1 · 🏛️"
+  semaforo: "🟢"
+  zona: arlanza
+  tiempo: "🚗 ~50 min de Burgos"
+  maps_query: "Monasterio de Santo Domingo de Silos"
+  lat: 41.96163
+  lng: -3.42015
+  foto: silos.jpg
+  credito: "Jl FilpoC"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Claustro_del_Monasterio_de_Santo_Domingo_de_Silos,_Santo_Domingo_de_Silos.jpg"
+  licencia: "CC BY-SA 4.0"
+
+# --- Zona Neila (Día 2) ---
 - id: neila
   nombre: Circular Lagunas de Neila (corta)
-  dia: "Día 2"
+  dia: "Día 2 · 🥾"
   semaforo: "🟡"
-  tipo: caminata
-  base: bur
+  zona: neila
   tiempo: "🚗 ~1 h 30 de Burgos"
   maps_query: "Aparcamiento Peña Aguda, Lagunas de Neila"
   lat: 42.04345
@@ -42,12 +66,22 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:Lagunas_de_Neila._Burgos.jpeg"
   licencia: "Dominio público"
 
+- id: cuyacabras
+  nombre: Necrópolis de Cuyacabras
+  dia: "Día 2 · 🏛️"
+  semaforo: "🟢"
+  zona: neila
+  tiempo: "🚗 ~1 h 50 de Burgos"
+  maps_query: "Necrópolis de Cuyacabras, Quintanar de la Sierra"
+  lat: 41.99125
+  lng: -2.99631
+
+# --- Zona Merindades (Día 3) ---
 - id: tobera
   nombre: Tobera — Paseo del Molinar
-  dia: "Día 3"
+  dia: "Día 3 · 🥾"
   semaforo: "🟡"
-  tipo: caminata
-  base: bur
+  zona: merindades
   tiempo: "🚗 ~1 h 10 de Burgos"
   maps_query: "Cascadas de Tobera"
   lat: 42.74994
@@ -57,23 +91,26 @@
   credito_url: "https://commons.wikimedia.org/wiki/File:M-cascada-la-tobera-barriolucio-junio-2024-c.jpg"
   licencia: "CC BY 4.0"
 
-- id: pielago
-  nombre: El Piélago (baño en el Arlanza)
-  dia: "Día 1 · 💦"
+- id: frias
+  nombre: Frías (castillo y casas colgadas)
+  dia: "Día 3 · 🏛️"
   semaforo: "🟡"
-  tipo: bano
-  base: bur
-  tiempo: "🚗 ~40 min de Burgos"
-  maps_query: "Zona de baño El Piélago, Covarrubias"
-  lat: 42.0631
-  lng: -3.4361
+  zona: merindades
+  tiempo: "🚗 ~1 h 15 de Burgos"
+  maps_query: "Frías, Burgos"
+  lat: 42.74792
+  lng: -3.29613
+  foto: frias.jpg
+  credito: "Eliana Alvoz"
+  credito_url: "https://commons.wikimedia.org/wiki/File:Castillo_de_Fr%C3%ADas_(Burgos).JPG"
+  licencia: "CC BY-SA 4.0"
+  hero: true
 
 - id: pedrosa
   nombre: Cascada del Peñón (Pedrosa de Tobalina)
   dia: "Día 3 · 💦"
   semaforo: "🟡"
-  tipo: bano
-  base: bur
+  zona: merindades
   tiempo: "🚗 ~1 h 15 de Burgos"
   maps_query: "Cascada de Pedrosa de Tobalina"
   lat: 42.84827
@@ -87,42 +124,8 @@
   nombre: Río Trueba (Espinosa) — baño oficial
   dia: "Alternativa · 💦"
   semaforo: "🟢"
-  tipo: bano
-  base: bur
+  zona: merindades
   tiempo: "🚗 ~2 h de Burgos"
   maps_query: "Zona de baño río Trueba, Espinosa de los Monteros"
   lat: 43.1114
   lng: -3.62072
-
-- id: silos
-  nombre: Monasterio de Santo Domingo de Silos
-  dia: "Día 1 (tarde)"
-  semaforo: "🟢"
-  maps_query: "Monasterio de Santo Domingo de Silos"
-  lat: 41.96163
-  lng: -3.42015
-  foto: silos.jpg
-  credito: "Jl FilpoC"
-  credito_url: "https://commons.wikimedia.org/wiki/File:Claustro_del_Monasterio_de_Santo_Domingo_de_Silos,_Santo_Domingo_de_Silos.jpg"
-  licencia: "CC BY-SA 4.0"
-
-- id: frias
-  nombre: Frías (castillo y casas colgadas)
-  dia: "Día 3"
-  semaforo: "🟡"
-  maps_query: "Frías, Burgos"
-  lat: 42.74792
-  lng: -3.29613
-  foto: frias.jpg
-  credito: "Eliana Alvoz"
-  credito_url: "https://commons.wikimedia.org/wiki/File:Castillo_de_Fr%C3%ADas_(Burgos).JPG"
-  licencia: "CC BY-SA 4.0"
-  hero: true
-
-- id: cuyacabras
-  nombre: Necrópolis de Cuyacabras
-  dia: "Día 2 (tarde)"
-  semaforo: "🟢"
-  maps_query: "Necrópolis de Cuyacabras, Quintanar de la Sierra"
-  lat: 41.99125
-  lng: -2.99631

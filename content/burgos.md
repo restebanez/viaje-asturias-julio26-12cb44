@@ -3,9 +3,9 @@
 Familia con peque de 6 años y medio · base en **Burgos ciudad** · coche los tres días. Naturaleza
 auténtica: **caminata bonita + agua natural**, evitando rutas largas, muy expuestas o con cortados.
 
-> **Planes por tipo:** 🥾 [Caminatas](./caminatas-burgos.html) · 💦 [Baños](./banos-burgos.html)
-> — ahí está el detalle de cada uno (datos, acceso, seguridad y "cómo llegar"). El de abajo es el
-> **plan día a día**.
+> **Planes por zona:** 🗺️ [Arlanza](./arlanza-burgos.html) · [Neila](./neila-burgos.html) ·
+> [Merindades](./merindades-burgos.html) — cada zona junta su **caminata + baño + pueblo**, con
+> mapa y "cómo llegar". El de abajo es el **plan día a día**.
 
 **Idea general:** tres jornadas agrupadas por zonas para no encadenar coche. **Neila** aporta la
 caminata de montaña; los otros dos días tiran al **agua y los pueblos**, que es lo que más encaja.
@@ -18,7 +18,7 @@ sombra y está a 2.000 m); **Arlanza** y **Merindades** → los días de más ca
 ## Día 1 — Arlanza: Covarrubias + El Piélago + Silos · 🟡
 *Sur de Burgos · ~40 min en coche · el día más cómodo*
 
-→ 🥾 **[Caminatas](./caminatas-burgos.html)** · 💦 **[Baños](./banos-burgos.html)**
+→ 🗺️ **[Plan completo de Arlanza](./arlanza-burgos.html)**
 
 {{media:covarrubias}}
 
@@ -37,7 +37,7 @@ sombra y está a 2.000 m); **Arlanza** y **Merindades** → los días de más ca
 ## Día 2 — Neila: circular corta de las Lagunas · 🟡
 *Sierra de la Demanda · ~1 h 30 en coche · montaña fresca, sin baño*
 
-→ 🥾 **[Caminatas](./caminatas-burgos.html)**
+→ 🗺️ **[Plan completo de Neila](./neila-burgos.html)**
 
 {{media:neila}}
 
@@ -55,7 +55,7 @@ sombra y está a 2.000 m); **Arlanza** y **Merindades** → los días de más ca
 ## Día 3 — Merindades: Tobera + Frías + Pedrosa · 🟡
 *Noreste · ~1 h en coche · pueblos + cascadas + baño natural*
 
-→ 🥾 **[Caminatas](./caminatas-burgos.html)** · 💦 **[Baños](./banos-burgos.html)**
+→ 🗺️ **[Plan completo de Merindades](./merindades-burgos.html)**
 
 {{media:frias}}
 
@@ -85,8 +85,8 @@ sombra y está a 2.000 m); **Arlanza** y **Merindades** → los días de más ca
 
 El censo oficial de aguas de baño de Castilla y León (temporada **15 jun – 15 sep**) solo reconoce
 **tres puntos con control de agua** en la provincia de Burgos. El resto de los baños de este plan
-son legales pero **no vigilados**: bajo responsabilidad de cada uno. (Detalle en
-**[Baños](./banos-burgos.html)**.)
+son legales pero **no vigilados**: bajo responsabilidad de cada uno. (El detalle de cada baño
+está en su zona: [Arlanza](./arlanza-burgos.html) y [Merindades](./merindades-burgos.html).)
 
 | Oficiales (control de agua) | Permitidos, sin vigilancia | Prohibido |
 |---|---|---|

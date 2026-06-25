@@ -51,10 +51,11 @@ const PARTS = [
   {
     output: 'burgos.html', nav: 'Burgos', content: 'burgos.md', data: 'lugares-burgos.yml',
     fechas: '3 días · naturaleza, agua y pueblos', desc: 'Tres días desde Burgos: Neila, Arlanza y Merindades — caminata + baño natural.',
-    legend: LEG_BURGOS, subLabel: '🥾💦 Caminatas y baños',
+    legend: LEG_BURGOS, subLabel: '🗺️ Planes por zona',
     dias: [
-      { slug: 'caminatas-burgos', titulo: '🥾 Caminatas', content: 'caminatas-burgos.md', base: 'bur', tipos: ['base', 'caminata'] },
-      { slug: 'banos-burgos', titulo: '💦 Baños', content: 'banos-burgos.md', base: 'bur', tipos: ['base', 'bano'] },
+      { slug: 'arlanza-burgos', titulo: 'Arlanza', content: 'arlanza-burgos.md', base: 'bur', zona: 'arlanza' },
+      { slug: 'neila-burgos', titulo: 'Neila', content: 'neila-burgos.md', base: 'bur', zona: 'neila' },
+      { slug: 'merindades-burgos', titulo: 'Merindades', content: 'merindades-burgos.md', base: 'bur', zona: 'merindades' },
     ],
   },
   {
@@ -230,9 +231,11 @@ function renderPart(part) {
     const { titulo: dt, html: dh } = renderMd(d.content, byId);
     const baseLug = lug.find((l) => l.tipo === 'base' && l.base === d.base);
     const origin = baseLug ? { lat: baseLug.lat, lng: baseLug.lng } : null;
-    const dpts = d.base
-      ? mapPointsDe(lug.filter((l) => l.base === d.base && (!d.tipos || d.tipos.includes(l.tipo))), origin)
-      : (d.mapAll ? mapPointsDe(lug) : null);
+    const dpts = d.zona
+      ? mapPointsDe(lug.filter((l) => l.zona === d.zona), origin)
+      : d.base
+        ? mapPointsDe(lug.filter((l) => l.base === d.base && (!d.tipos || d.tipos.includes(l.tipo))), origin)
+        : (d.mapAll ? mapPointsDe(lug) : null);
     const dout = pageShell({
       titulo: dt || d.titulo, nav: navHtml(part), hero: null,
       body: { html: `<p class="volver"><a href="./${esc(part.output)}">◀ ${esc(part.nav)}</a></p>` + dh, fechas: '' },
