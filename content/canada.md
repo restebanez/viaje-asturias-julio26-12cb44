@@ -71,6 +71,7 @@ Primer contacto con las Rocosas, muy cerca del pueblo de Banff.
 - **Pueblo de Banff**: Bow Falls, Banff Avenue.
 - 🥾 **Johnson Lake Loop** — 2,9 km **circular**, ~1 h, fácil y con **💦 baño** (de los lagos más templados). [Ruta](https://www.alltrails.com/trail/canada/alberta/johnson-lake). 🚐 Con la AC al parking de Johnson Lake (pequeño, ir pronto).
 - 🥾 **Johnston Canyon** (cascadas) — Lower Falls 2,4 km / Upper 5,5 km, ~2–2,5 h, por pasarelas; agua helada (sin baño). [Ruta](https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-upper-falls). 🚌 **Roam Transit Ruta 9** (verano a diario, sin reserva) — mejor que llevar la AC (el parking se llena).
+- 🥾 **C-Level Cirque** — ~9 km i/v, +455 m, ~3,5 h: bosque + ruinas de mina hasta un circo glaciar; **pendiente y roca pero sin cortados** si os quedáis en el circo. [Ruta](https://www.alltrails.com/trail/canada/alberta/clevel-cirque). 🚐 Con la AC, parking de Upper Bankhead (Lake Minnewanka Rd). ⚠️ Revisad el parte de agosto (a veces nieve tardía).
 
 {{media:banff_gondola}}
 
@@ -90,6 +91,9 @@ Cruzáis a la Columbia Británica (Yoho). Base en **Field**.
   espiral (al peque le encantará).
 - 🥾 **Emerald Lake Loop** — 5,3 km **circular** y llano, ~1 h 30 (chapuzón solo para valientes, muy fría). [Ruta](https://www.alltrails.com/trail/canada/british-columbia/emerald-lake-loop). 🚐 Con la AC por Emerald Lake Rd (asfaltada); el parking se llena, ir pronto.
 - 🥾 **Wapta Falls** — 4,5 km ida/vuelta, ~1 h 15, fácil y apta para el peque. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/wapta-falls). 🚐 Desvío de gravilla 1,6 km + parking pequeño (con la AC, justo; llegar pronto).
+- 🥾 **Sherbrooke Lake** (3 km, fácil, lago turquesa) y **Paget Lookout** (7 km, +520 m, ~3 h, mirador panorámico) — mismo inicio (Wapta Lake), **sin cortados**. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/paget-lookout-and-sherbrooke-lake). 🚐 Con la AC, parking junto a la Trans-Canada (Great Divide).
+- ⛰️ **Reto opcional: Hamilton Lake** — ~10 km i/v, **+850 m**, ~4,5–5 h: subida dura y sostenida, pero **sin precipicios**; lago alpino precioso y poca gente. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/hamilton-lake-trail). 🚐 Desde Emerald Lake.
+- ℹ️ *Lake O'Hara* (la joya de Yoho) va por **sorteo de bus que ya cerró** (2–23 mar 2026): solo cancelaciones o guía autorizado. *Iceline/Takakkaw*: la AC no sube por la Yoho Valley Road.
 
 {{media:takakkaw}}
 
@@ -114,6 +118,7 @@ El parque más grande y salvaje. Subís por la Icefields Parkway hasta Jasper.
 - Buen sitio para **cenar de restaurante** (el pueblo de Jasper tiene oferta).
 - 🥾 **Valley of the Five Lakes** — 5,5 km **circular**, ~2 h, lagos turquesa con **💦 zonas de baño** (algún tramo puede estar desviado por el incendio: seguid la señalización). [Ruta](https://www.alltrails.com/trail/canada/alberta/valley-of-the-five-lakes-loop). 🚐 Con la AC, parking en la Hwy 93 (~10 min del pueblo).
 - 🥾 **Lake Annette Loop** — 2,7 km **circular** y llano (cochecito ok), de los lagos **más cálidos para bañarse 💦**. [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-annette-loop). 🚐 Con la AC, parking junto al lago (cerca del pueblo).
+- 🥾 **Sulphur Skyline** — 8 km i/v, **+650/700 m**, ~3,5–4 h: cima abierta y ventosa con panorámica de 360° (**sin cortados**); empieza junto a **Miette Hot Springs** (termas al bajar). [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail). 🚐 Con la AC a Miette (~1 h del pueblo). **La mejor caminata fuerte de Jasper.**
 
 {{media:pyramid_lake}}
 
@@ -157,6 +162,8 @@ Louise. (De camino/alrededor del campamento.)
 - **Moraine Lake**: el del Valle de los Diez Picos (el de los billetes antiguos).
 - 🥾 **Lake Louise Lakeshore** — 4,7 km ida/vuelta, llano y fácil, el paseo icónico junto al lago turquesa. [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-louise-lakeshore).
 - 🥾 **Lake Agnes Tea House** — 7,4 km, ~3–3,5 h, +400 m, casa de té histórica junto al Mirror Lake y el lago Agnes (alpino, sin baño). [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail).
+- 🥾 **Plain of Six Glaciers** — **gran día** (~14 km i/v, +585 m, ~4,5–5 h): casa de té y glaciares. **Hasta el refugio, razonable**; más allá del mirador hay morrena/piedra suelta (cautela). [Ruta](https://www.alltrails.com/trail/canada/alberta/plain-of-six-glaciers-trail). (No encadenéis las dos casas de té con Darío.)
+- 🥾 **Larch Valley** (hasta los Minnestimma Lakes) — ~8,6 km i/v, +535 m, prados alpinos; **desde Moraine** (shuttle/bici). ⚠️ A veces exigen **grupo de 4** por osos (sois 3 → uníos a otros) y **parad en el valle** (Sentinel Pass tiene exposición). En agosto los alerces aún están verdes. [Ruta](https://www.alltrails.com/trail/canada/alberta/larch-valley--3).
 - 🚐 **Acceso:** el parking del lago se llena de madrugada y con la AC es complicado → **Park & Ride** (1 Whitehorn Rd, gratis) + **shuttle de Parks Canada** (reserva, abre 15 abr 2026). El bus **Roam 8X** solo conecta Banff↔Lake Louise. **Moraine Lake:** prohibidos los coches → **shuttle de Parks Canada** desde el Park & Ride (con reserva) o **tour** (Roam **no** llega a Moraine).
 
 > 🔴 **Importante (multitudes + reservas):** **Moraine Lake está cerrado a coches
@@ -180,6 +187,7 @@ De vuelta a BC, parque más tranquilo y con termas.
 - **Marble Canyon**: cañón estrecho con pasarelas sobre el agua turquesa.
 - **Paint Pots** y otros **cañones** para caminar.
 - 🥾 **Juniper Loop** — 6 km **circular**, ~2 h, por Sinclair Canyon y la falla Redwall (bosque seco, ovejas de montaña). [Ruta](https://www.alltrails.com/trail/canada/british-columbia/juniper-loop). 🚐 Trailhead junto a la puerta oeste/termas de Radium, **a ~5 min del camping Redstreak**. ⚠️ Reconfirmar: **obras en Sinclair Canyon** en 2026 (posibles cierres de pasos).
+- 🥾 **Stanley Glacier** — ~8,4 km i/v (hasta el circo), +400 m, ~3 h: bosque quemado → circo glaciar con cascadas y **fósiles del Burgess Shale**; **pendiente pero sin cortados** en el sendero mantenido. [Ruta](https://www.alltrails.com/trail/canada/alberta/stanley-glacier-trail). 🚐 Con la AC, parking en la Hwy 93. **La mejor de Kootenay.**
 - 🥾 **Marble Canyon** — ~1,6 km, fácil, cañón con pasarelas sobre agua turquesa. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon). 🚐 Con la AC, parking en la Hwy 93. (Tuvo cierres puntuales a principios de 2026, ya finalizados; **reconfirmad**.)
 - 💦 Baño: las **termas de Radium ♨️** (los lagos y ríos van helados). *(Dog Lake está **cerrado en 2026** por un puente dañado.)*
 
@@ -252,6 +260,90 @@ Tiempos de **coche** (OSRM, sobre coordenadas reales); con la autocaravana y las
 ⚠️ **Yoho → Jasper (3 ago)** es la tirada larga. Y el **6 ago** por la **Icefields Parkway**:
 aunque son pocos km, es **día entero** por las paradas (Athabasca/Sunwapta Falls, glaciar,
 Peyto Lake). El resto son trayectos cómodos de 1–2,5 h.
+
+---
+
+## 🥾 Caminatas de un vistazo
+
+⭕ circular · 💦 baño · ⛰️ reto >4 h · acceso: 🚐 autocaravana · 🚌 bus/shuttle · 🚶 desde el camping
+
+| Caminata | Zona | km | ↑ desnivel | Tiempo | Tipo | 💦 | Acceso | Cortados |
+|---|---|---|---|---|---|---|---|---|
+| Johnson Lake | Banff | 2,9 | +50 | 1 h | ⭕ | 💦 | 🚐 | No |
+| Johnston Canyon | Banff | 5,5 | +250 | 2–2,5 h | i/v | – | 🚌/🚐 | No (barandilla) |
+| C-Level Cirque | Banff | 9 | +455 | 3,5 h | i/v | – | 🚐 | No |
+| Tunnel Mountain | Banff | 4,7 | +260 | 1,5–2 h | i/v | – | 🚶 | Borde en la cima |
+| Sundance Canyon | Banff | 9 | +145 | 2,5–3 h | bucle | – | 🚐/🚌 | No |
+| Sanson's Peak (góndola) | Banff | 2 | llano | 0,75 h | i/v | – | 🚠 | No (barandilla) |
+| ⛰️ Sulphur Mtn (a pie) | Banff | 11 | +655 | 4–5 h | i/v | – | 🚐 | No |
+| Emerald Lake Loop | Yoho | 5,3 | llano | 1,5 h | ⭕ | (fría) | 🚐 | No |
+| Wapta Falls | Yoho | 4,5 | +150 | 1,5 h | i/v | – | 🚐 | No |
+| Sherbrooke Lake | Yoho | 6 | +250 | 2 h | i/v | – | 🚐 | No |
+| Paget Lookout | Yoho | 7 | +520 | 3 h | i/v | – | 🚐 | No |
+| ⛰️ Hamilton Lake | Yoho | 10 | +850 | 4,5–5 h | i/v | – | 🚐 | No |
+| Valley of the Five Lakes | Jasper | 5,5 | +120 | 2 h | ⭕ | 💦 | 🚐 | No |
+| Lake Annette | Jasper | 2,7 | llano | 0,75 h | ⭕ | 💦 | 🚐 | No |
+| Sulphur Skyline | Jasper | 8 | +700 | 3,5–4 h | i/v | – | 🚐 | No |
+| Wilcox Pass (Red Chairs) | Icefields | 4 | +130 | 1,5 h | i/v | – | 🚐 | Borde en el mirador |
+| Parker Ridge | Icefields | 5 | +250 | 2,5 h | i/v | – | 🚐 | Borde en el mirador |
+| Lake Louise Lakeshore | L. Louise | 4,7 | llano | 1,5 h | i/v | – | 🚌 | No |
+| Lake Agnes Tea House | L. Louise | 7,4 | +400 | 3–3,5 h | i/v | – | 🚌 | No |
+| Plain of Six Glaciers | L. Louise | 14 | +585 | 4,5–5 h | i/v | – | 🚌 | Tramo final |
+| Larch Valley | L. Louise | 8,6 | +535 | 3,5 h | i/v | – | 🚌 Moraine | Parad en el valle |
+| Stanley Glacier | Kootenay | 8,4 | +400 | 3 h | i/v | – | 🚐 | No |
+| Juniper Loop | Kootenay | 6 | +300 | 2 h | ⭕ | – | 🚐 | No |
+| Marble Canyon | Kootenay | 1,6 | llano | 0,75 h | i/v | – | 🚐 | No (barandilla) |
+| Grotto Canyon | Kananaskis | 4 | +80 | 1,5 h | i/v | – | 🚐 | No |
+| Troll Falls | Kananaskis | 3,5 | +60 | 1–1,5 h | i/v | – | 🚐 | No |
+| Many Springs | Kananaskis | 1,6 | llano | 0,5 h | ⭕ | – | 🚶 | No |
+
+---
+
+## 🌧️ Plan A / plan B (lluvia o humo) / plan corto
+
+| Etapa | Plan A (buen día) | Plan B (lluvia/humo) | Corto con Darío |
+|---|---|---|---|
+| Banff | C-Level Cirque / Johnston | Banff Gondola + Upper Hot Springs + pueblo | Johnson Lake (baño) |
+| Yoho | Paget Lookout | Field + Natural Bridge + Spiral Tunnels (en coche) | Emerald Lake Loop |
+| Jasper | Sulphur Skyline | Crucero Maligne Lake (techo) / Miette / restaurantes | Lake Annette (baño) |
+| Icefields | Wilcox Pass / Parker Ridge | Columbia Icefield (Ice Explorer + centro) | Athabasca/Sunwapta Falls |
+| Lake Louise | Plain of Six Glaciers | Lakeshore corto + Lake Louise village | Lakeshore |
+| Kootenay | Stanley Glacier | Radium Hot Springs (termas) | Marble Canyon |
+| Bow Valley | Grotto Canyon | Canmore (pueblo) + Quarry Lake | Many Springs |
+
+---
+
+## 💵 Costes orientativos (CAD 2026, por adulto — confirmar en webs oficiales)
+
+| Actividad | Aprox. |
+|---|---|
+| Banff Gondola | ~75 $ |
+| Banff Upper Hot Springs | ~17 $ |
+| Columbia Icefield (Ice Explorer + Skywalk) | ~125 $ |
+| Jasper SkyTram | ~60 $ |
+| Crucero Maligne Lake (Spirit Island) | ~115 $ |
+| Miette / Radium Hot Springs | ~10–18 $ |
+| Shuttle Lake Louise/Moraine (Parks Canada) | ~8 $ + 3,50 $ reserva |
+| Roam Transit (Banff) | ~2–6 $ |
+| **Kananaskis Conservation Pass** | 15 $/día · 90 $/año |
+| Alquiler bici/e-bike (Moraine) | ~25–60 $/día |
+
+Niños suelen pagar tarifa reducida o gratis. Combo Pursuit "Ultimate Explorer" (Gondola + crucero
+Banff + Columbia Icefield) ~258 $. **Entrada a los parques: gratis** (Canada Strong Pass 2026).
+
+---
+
+## 🚐 Logística de la autocaravana
+
+- **Vaciado (sani-dump):** **Canmore** (2801 Bow Valley Trail, el mejor), Banff (Hawk Ave, ~5 $,
+  sin agua potable), Jasper (Stan Wright Ind. Park, Hwy 93A) y la mayoría de campings (Lake Louise…).
+- **Agua potable:** en los campings (pequeña tasa, aunque no durmáis allí).
+- **Propano:** Canadian Tire (8th St, Canmore) y estaciones grandes.
+- **Compra:** grande y más barata en **Calgary** (antes de arrancar) y **Canmore** (Save-On-Foods/
+  Safeway). En Banff/Jasper/Lake Louise hay tiendas (más caras); **Field y Saskatchewan Crossing**
+  muy limitados.
+- ⚠️ **Icefields Parkway: ~230 km sin cobertura** → repostad, llenad agua y **descargad mapas
+  offline** antes (en Lake Louise o Jasper). Gasolina escasa y cara dentro de los parques.
 
 ---
 

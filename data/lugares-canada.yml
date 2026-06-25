@@ -229,6 +229,7 @@
   credito: "Jon Eeuwes"
   credito_url: "https://commons.wikimedia.org/wiki/File:Source_of_the_spring_2,_Miette_Hot_Springs,_Jasper_AB.jpg"
   licencia: "CC BY-SA 4.0"
+  ruta: "https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail"
 
 - id: quarry_lake
   nombre: Quarry Lake (baño, Canmore)
@@ -527,3 +528,66 @@
   lat: 51.14868
   lng: -115.55835
   ruta: "https://www.alltrails.com/trail/canada/alberta/sulphur-mountain-trail"
+
+- id: c_level
+  nombre: C-Level Cirque
+  dia: "Banff · caminata"
+  semaforo: "🟢"
+  maps_query: "C-Level Cirque Trailhead, Upper Bankhead, Banff"
+  lat: 51.2155
+  lng: -115.5165
+  ruta: "https://www.alltrails.com/trail/canada/alberta/clevel-cirque"
+
+- id: sherbrooke_paget
+  nombre: Sherbrooke Lake / Paget Lookout
+  dia: "Yoho · caminata"
+  semaforo: "🟢"
+  maps_query: "Sherbrooke Lake Trailhead, Yoho"
+  lat: 51.4475
+  lng: -116.3700
+  ruta: "https://www.alltrails.com/trail/canada/british-columbia/paget-lookout-and-sherbrooke-lake"
+
+- id: hamilton_lake
+  nombre: Hamilton Lake (reto)
+  dia: "Yoho · reto opcional"
+  semaforo: "🟢"
+  maps_query: "Hamilton Lake Trailhead, Emerald Lake, Yoho"
+  lat: 51.4300
+  lng: -116.5530
+  ruta: "https://www.alltrails.com/trail/canada/british-columbia/hamilton-lake-trail"
+
+- id: sulphur_skyline
+  nombre: Sulphur Skyline (Miette)
+  dia: "Jasper · caminata"
+  semaforo: "🟢"
+  maps_query: "Sulphur Skyline Trailhead, Miette Hot Springs"
+  lat: 53.1255
+  lng: -117.7720
+  ruta: "https://www.alltrails.com/trail/canada/alberta/sulphur-skyline-trail"
+
+- id: plain_six
+  nombre: Plain of Six Glaciers
+  dia: "Lake Louise · gran día"
+  semaforo: "🟢"
+  maps_query: "Plain of Six Glaciers Tea House, Lake Louise"
+  lat: 51.4020
+  lng: -116.2750
+  ruta: "https://www.alltrails.com/trail/canada/alberta/plain-of-six-glaciers-trail"
+
+- id: larch_valley
+  nombre: Larch Valley (desde Moraine)
+  dia: "Lake Louise · shuttle a Moraine"
+  semaforo: "🟢"
+  maps_query: "Larch Valley Trail, Moraine Lake"
+  lat: 51.3420
+  lng: -116.1970
+  ruta: "https://www.alltrails.com/trail/canada/alberta/larch-valley--3"
+
+- id: stanley_glacier
+  nombre: Stanley Glacier
+  dia: "Kootenay · caminata"
+  semaforo: "🟢"
+  maps_query: "Stanley Glacier Trailhead, Kootenay"
+  lat: 51.20546
+  lng: -116.08065
+  ruta: "https://www.alltrails.com/trail/canada/alberta/stanley-glacier-trail"
