@@ -12,6 +12,10 @@ auténtica, caminata bonita (máx. ~3 h) + baño natural, sombra y seguridad.
 > según el tiempo. Senderos → días despejados; playa → el día más caluroso;
 > pueblo/Covadonga → si llueve (en Asturias puede llover incluso en julio).
 
+> **Planes por tipo:** 🥾 [Caminatas](./caminatas-asturias.html) · 🏖️ [Playas](./playas-asturias.html)
+> — ahí está el detalle de cada una (datos, descripción, por qué y nivel de gente). El itinerario
+> de abajo es el **plan día a día**.
+
 ---
 
 ## Cómo enfoco las multitudes (julio)
@@ -41,18 +45,10 @@ Día de coche; no metáis ruta de montaña.
 - **Mañana/mediodía:** Burgos → Cangas de Onís. Check-in.
 - **Tarde (tranquila):** casco de Cangas — **Puente Romano** con la Cruz de la
   Victoria, paseo por la ribera del Sella, sidrería y helado.
-- **Si hace calor y el peque tiene energía** (baño fácil, sin ruta):
-  - Google Maps: `Playa fluvial de Aballe` (Parres) — zona de baño señalizada del
-    Sella, **corriente suave apta para niños**, sombra de árboles y **poca gente**;
-    a ~15 min de Cangas. No hay bar: llevad agua y picnic.
-  - Riesgos: río abierto → vigilar corriente y profundidad variable; rocas
-    resbaladizas.
-  - ⚠️ Ojo: el "área recreativa de **La Pesanca**" que sale en muchas webs está en
-    **Piloña** (río del Infierno, junto a Infiesto), **no** en Cangas; es otra
-    excursión distinta — no la pongáis para este día.
-- **Multitudes 🟢:** el casco de Cangas tiene el ajetreo turístico normal de verano,
-  pero se lleva bien; Aballe es un rincón tranquilo y poco conocido del Sella.
-- **Veredicto:** día de recuperación. Fácil.
+- **Si hace calor:** chapuzón fácil y cercano en la **Playa fluvial de Aballe**
+  (~15 min, corriente suave apta para niños) → 🏖️ ficha en [Playas](./playas-asturias.html).
+  ⚠️ No confundir con "La Pesanca", que está en **Piloña**, no en Cangas.
+- **Veredicto:** día de recuperación. 🟢 el casco se lleva bien; Aballe, tranquilo.
 
 ---
 
@@ -62,29 +58,13 @@ Día de coche; no metáis ruta de montaña.
 
 {{media:casano}}
 
-El día **más equilibrado** y, además, **el más tranquilo de multitudes**: es una
-joya poco conocida (la gente se va al Cares o a la Olla). Bosque de castaños, casi
-llano, pozas y sombra.
+El día **más equilibrado** y **el más tranquilo de multitudes** (la gente se va al Cares
+o a la Olla): bosque de castaños, casi llano, con pozas y sombra; i/v ~2 h 30–3 h hasta la
+**Vega de la Batuda**. *Stats, baño y avisos (no seguir tras la Batuda) → en la ficha.*
 
-1. **Sitio:** ribera del río Casaño, puentes de piedra y pozas cristalinas.
-2. **Google Maps:** `La Molina, Cabrales`; ya en el pueblo, inicio hacia
-   `Puente Pompedru`. A ~35–40 min de Cangas.
-3. **Caminata:** ida y vuelta **2 h 30 – 3 h** hasta la **Vega de la Batuda**.
-4. **Dificultad:** fácil–moderada familiar; camino de ribera algo irregular, casi
-   plano. De las mejores "primeras grandes rutas" para un niño.
-5. **Baño/remojón:** remojón y chapuzones en pozas pequeñas (agua muy fría); más
-   de chapotear que de nadar.
-6. **Riesgos:** ⚠️ **al llegar a la Batuda, dad la vuelta y NO sigáis** hacia el
-   canal tallado en la roca (paso estrecho, sin margen de error con niños). Roca y
-   raíces húmedas resbaladizas. Sombra abundante.
-7. **Track Wikiloc:** [Ruta por el Río Casaño (La Molina – Cabrales)](https://www.wikiloc.com/hiking-trails/ruta-por-el-rio-casano-la-molina-cabrales-69078011)
-   · alternativo: [Ruta del río Casaño](https://es.wikiloc.com/rutas-senderismo/ruta-del-rio-casano-34863993)
-8. **Multitudes 🟢:** baja. Único matiz: **La Molina es un pueblo pequeño y el
-   aparcamiento es reducido**; llegando por la mañana no suele haber problema.
-9. **Plan:** ruta por la mañana + baño en pozas; comida en **Arenas de Cabrales**
-   (sidra y queso Cabrales; cueva-museo del queso para el peque). Aparcamiento
-   grande gratuito en Arenas (Llaneces).
-10. **Veredicto:** **muy recomendable** (el más seguro, arbolado y tranquilo).
+- **Plan:** ruta por la mañana + baño en pozas; comida en **Arenas de Cabrales** (sidra y
+  queso Cabrales; cueva-museo del queso para el peque). Parking grande gratuito (Llaneces).
+- **Veredicto:** **muy recomendable** (el más seguro, arbolado y tranquilo).
 
 {{media:arenas}}
 
@@ -92,51 +72,25 @@ llano, pozas y sombra.
 
 ## Miércoles 22 — Día de playa · (elige según el día)
 
-→ 🏖️ **[Todas las playas de Asturias](./playas-asturias.html)**
-
-Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
-
-### Opción A — Cuevas del Mar (espectacular pero concurrida) · 🔴
+→ 🏖️ **[Todas las playas de Asturias](./playas-asturias.html)** (marea, socorrista, parking y por qué de cada una)
 
 {{media:cuevas}}
 
-1. **Google Maps:** `Playa de Cuevas del Mar, Nueva, Llanes`. A ~40 min de Cangas.
-2. **Por qué es tan espectacular:** el mar y un río han esculpido unos
-   **farallones y arcos de roca** que emergen de la arena; con marea baja se abren
-   pasadizos entre las rocas. Es de las playas más fotogénicas de Asturias.
-3. **Por qué se llena:** justo por eso (fama + Instagram), porque es **semiurbana
-   con servicios** (socorrista, Cruz Roja) y porque el **aparcamiento es pequeño**.
-   En julio **se llena antes de las 11:00**.
-4. **Estrategia si vais:** llegar **9:30–10:00** como muy tarde; con marea baja
-   para ver las cuevas (ver nota de mareas).
+Elige por la mañana según ganas y marea:
 
-### Opción B — la alternativa tranquila y bonita · 🟢🟡
+- **Espectáculo de roca:** **Cuevas del Mar** 🔴 — id a primera hora (9:30–10:00) y con
+  **marea baja** (parking pequeño, se llena antes de las 11:00).
+- **Calma y espacio:** **San Antolín** 🟢 / **Playa de Vega** 🟡 — arenales grandes donde el
+  peque juega sin agobio.
+- **Plan B si el mar está fuerte:** **La Griega** (Colunga), más resguardada y con huellas
+  de dinosaurio.
 
 {{media:sanantolin}}
 
-- **Playa de San Antolín** (`Playa de San Antolín, Naves, Llanes`): **arenal amplio
-  y abierto**, con río y verde detrás; al ser grande **nunca se siente abarrotada**
-  aunque haya gente. Menos "postal de roca", mucha más paz para que el niño juegue.
-- **Playa de Vega** (`Playa de Vega, Ribadesella`): playa larga de arena, ambiente
-  familiar, buen aparcamiento. Otra apuesta segura de espacio.
-- **Por qué cuadran con vosotros:** priorizáis disfrutar sin agobio sobre la foto;
-  en un arenal grande cabéis todos, aparcáis sin estrés y el peque tiene espacio.
+> **Mareas:** para las cuevas interesa **marea baja**; reconfírmalo la semana antes
+> (tablademareas.com, "Ribadesella"). El detalle de cada playa, en la página de Playas.
 
 {{media:vega}}
-
-> **Gulpiyuri** (la mini-playa interior famosa): preciosa y curiosa, pero **40 m de
-> arena que se masifican** y depende mucho de la marea. Solo merece la pena **muy
-> pronto o a última hora**; a mediodía en julio, mejor evitarla.
-
-- **Plan B si el mar está fuerte:** `Playa de La Griega, Colunga` — más resguardada
-  y familiar, con huellas de dinosaurio.
-- **Veredicto:** día de costa **muy recomendable**. Si priorizáis calma → San
-  Antolín / Vega; si queréis el espectáculo de roca → Cuevas del Mar a primera hora.
-
-> **Mareas:** para las cuevas interesa **marea baja**. Reconfírmalo la semana antes
-> en la web de la Armada o tablademareas.com (busca "Ribadesella"). Si la bajamar
-> cae a última hora de la tarde, a media mañana habrá más agua: id pronto igual por
-> el aparcamiento y dejad las cuevas para cuando baje.
 
 ---
 
@@ -148,51 +102,29 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 
 {{media:olla}}
 
-1. **Sitio:** gran poza verde esmeralda del río Dobra, a las puertas del Parque
-   Nacional. La única de la zona donde se **nada de verdad**.
-2. **Google Maps:** `Aparcamiento Olla de San Vicente` o
-   `Restaurante Puente Dobra, Tornín`. A ~10–15 min de Cangas.
-3. **Caminata:** **1 h 45 – 2 h** ida y vuelta (~5–6,5 km), poco desnivel.
-4. **Dificultad:** baja, pero la **segunda mitad es pedregosa** (senda estrecha de
-   roca; resbala si ha llovido) → el niño de la mano en ese tramo.
-5. **Baño:** baño completo. ⚠️ Agua **muy fría** y **poza profunda en el centro
-   (~5 m)**: el niño en la orilla/zona poco profunda, un adulto siempre cerca.
-6. **Track Wikiloc:** [Olla de San Vicente (Río Dobra), Cangas de Onís](https://www.wikiloc.com/hiking-trails/olla-de-san-vicente-rio-dobra-cangas-de-onis-asturias-10595194)
-   · alternativo: [La Olla de San Vicente, Amieva](https://es.wikiloc.com/rutas-senderismo/la-olla-de-san-vicente-amieva-asturias-34582051)
-7. **Multitudes 🔴 — la más delicada del viaje:**
-   - **Por qué se llena:** es *la* poza de moda del Dobra y el **aparcamiento tiene
-     ~15 plazas**. En julio el parking y la propia poza pueden estar abarrotados.
-   - **Estrategia (3 capas):**
-     1. **Madrugar de verdad:** salir de Cangas **8:30–9:00**, entre semana (jueves
-        ✓). A esa hora la senda y la poza están casi para vosotros.
-     2. **Si el parking está lleno:** seguid al pueblo siguiente, **Miyares**, donde
-        hay sitio; son solo ~5 min más andando.
-     3. **No os caséis con la poza famosa:** por el camino del Dobra hay **otras
-        pozas más tranquilas** y de agua igual de turquesa. Si la Olla está a tope,
-        os remojáis en una poza previa y disfrutáis igual o más, sin gentío.
-8. **Veredicto:** **muy recomendable** madrugando (vigilando senda pedregosa y
-   profundidad). Si llegáis tarde y está masificada → poza alternativa del Dobra.
+La gran **poza verde esmeralda** del Dobra, a ~10–15 min de Cangas: la única de la zona
+donde se **nada de verdad**. Ruta i/v ~1 h 45–2 h, poco desnivel. **La más delicada por
+multitudes** (parking ~15 plazas) → **madrugad (salir 8:30–9:00)**; si está lleno, aparcad en
+**Miyares** o quedaos en una **poza previa del Dobra**. *Baño (poza profunda ~5 m), 2ª mitad
+pedregosa y estrategia completa → en la ficha.*
 
 ### Tarde opcional — Santuario de Covadonga · 🔴
 
 {{media:covadonga}}
 
-- **Qué es:** Basílica + **Santa Cueva** (la Virgen, la cascada), corazón espiritual
-  de Asturias. Se llega **en coche todo el año** (la restricción es solo la
-  carretera de los *Lagos*, no el santuario).
-- **Por qué se llena:** autobuses turísticos y peregrinos; es icónico. Aparcamiento
-  justo.
-- **Realismo horario:** la primera hora de este jueves ya la "gasta" la Olla, así
-  que aquí el santuario sería **de vuelta, por la tarde, asumiendo bullicio** (vale
-  para un vistazo rápido a la Santa Cueva). **Si lo queréis con calma, dedicadle
-  otro día a primera hora (antes de 9:30) o saltáoslo**: lo de verdad tranquilo es
-  el río, no el santuario.
-- ⚠️ **No** confundir con los **Lagos** (exigen lanzadera de pago y **no son zona de
-  baño**; son el mayor imán de multitudes de la zona).
+- **Qué es:** Basílica + **Santa Cueva** (la Virgen, la cascada), corazón espiritual de
+  Asturias. Se llega **en coche todo el año** (la restricción es solo la carretera de los
+  *Lagos*, no el santuario).
+- **Por qué se llena:** autobuses turísticos y peregrinos; aparcamiento justo.
+- **Realismo horario:** la primera hora del jueves ya la "gasta" la Olla, así que el santuario
+  sería **de vuelta, por la tarde, asumiendo bullicio** (un vistazo rápido a la Santa Cueva).
+  Si lo queréis con calma, id otro día antes de 9:30 o saltáoslo.
+- ⚠️ **No** confundir con los **Lagos** (lanzadera de pago, **no son zona de baño**; el mayor
+  imán de multitudes de la zona).
 
-> **Intercambio del día:** si os apetece bosque y cascadas en vez de poza, cambiad
-> la Olla por la **Ruta del Alba** (Soto de Agues, versión corta ~2 h 30–3 h). Está a
-> 1 h–1 h 15 en coche, así que es plan de **día completo**.
+> **Intercambio del día:** si os apetece bosque y cascadas en vez de poza, cambiad la Olla por
+> la **Ruta del Alba** (Soto de Agues, versión corta ~2 h 30–3 h; a 1 h–1 h 15 en coche → día
+> completo). Ficha en Caminatas.
 
 {{media:alba}}
 
@@ -207,25 +139,13 @@ Aquí tienes dos perfiles. Elige por la mañana según ganas y según la marea.
 Sin ruta de montaña. Objetivo: estar en el aeropuerto **~14:00** (vuelo a las **15:45**).
 
 - **09:00** salir de Cangas hacia el oeste (dirección aeropuerto).
-- **Sitio recomendado de camino:** **Lastres** 🟡 (precioso pueblo marinero,
-  mirador) y/o **Playa de La Griega** 🟡 (Colunga) con **huellas de dinosaurio**.
-  - Google Maps: `Lastres, Colunga` · `Playa de La Griega, Colunga`.
-  - La Griega: familiar y práctica, con **salvamento (1 jul–9 sep)**, parking amplio
-    (100+ plazas, aunque limitado en hora punta) y **piscinas naturales en bajamar**
-    ideales para niños. Es de los focos turísticos de Colunga en verano → 🟡, no
-    desierta.
-  - **Huellas de dinosaurio:** a ~500 m, en el lado derecho de la playa; se ven con
-    **marea baja**. Paseo corto y señalizado (calzado cerrado, no chanclas).
-  - Track Wikiloc (huellas): busca en la app *"yacimiento huellas dinosaurio La
-    Griega Colunga"*.
-- **Multitudes:** Lastres tiene trasiego de verano pero es un pueblo, se lleva bien
-  a mediodía; La Griega es familiar (🟡), cómoda con niño por los servicios.
+- **De camino:** **Lastres** 🟡 (precioso pueblo marinero, mirador) y/o **Playa de La Griega**
+  🟡 (Colunga), con **huellas de dinosaurio** (a ~500 m, lado derecho, con marea baja) y
+  salvamento en verano → ficha en Playas.
 - **~11:45–12:30:** comida muy temprana (o picnic) en Lastres/Colunga.
-- **~12:45–13:00:** salir hacia el aeropuerto **desde Colunga/Lastres** (antes si
-  devolvéis coche de alquiler). Desde aquí son **~79 km, ~55 min** (no los 107 de
-  Cangas, porque Colunga ya queda de camino) → llegada ~13:45–14:00.
-  ⚠️ Con el vuelo a las **15:45** y un niño, no apuréis: si la mañana va justa, acortad
-  la parada costera (un vistazo a Lastres) o id directos al aeropuerto.
+- **~12:45–13:00:** salir hacia el aeropuerto desde Colunga/Lastres (**~79 km, ~55 min** →
+  llegada ~13:45–14:00). ⚠️ Con el vuelo a las **15:45** y un niño, no apuréis: si la mañana va
+  justa, acortad la parada (un vistazo a Lastres) o id directos.
 - **Veredicto:** **muy recomendable** por logística con niño.
 
 {{media:griega}}
@@ -239,10 +159,7 @@ Sin ruta de montaña. Objetivo: estar en el aeropuerto **~14:00** (vuelo a las *
 2. **Olla de San Vicente** — el mejor baño natural (se nada), muy cerca; pero
    🔴 masificada → **madrugar** o poza alternativa del Dobra.
 3. **Ruta del Alba (versión corta)** — el bosque más bonito y fresco; penaliza la
-   hora de coche → día completo. Track:
-   [Ruta del Alba desde Soto de Agues](https://www.wikiloc.com/hiking-trails/ruta-del-alba-desde-soto-de-agues-parque-natural-de-redes-244840).
-   Multitudes 🟡: popular, pero sus ~16 km dispersan a la gente; el primer tramo es
-   el más concurrido.
+   hora de coche → día completo.
 4. **San Antolín / Vega** — playas grandes y tranquilas (la alternativa de calma).
 5. **Cuevas del Mar** — la más espectacular, pero 🔴; solo a primera hora.
 
