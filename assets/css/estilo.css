@@ -44,10 +44,12 @@ main { max-width: var(--maxw); margin: 0 auto; padding: 0 20px 48px; }
 .parte-txt .desc { color: var(--suave); margin: 8px 0 0; font-size: .95rem; line-height: 1.5; }
 @media (max-width: 620px) { .partes { grid-template-columns: 1fr; } .parte-img { height: 180px; } }
 
-/* Índice de días y volver (páginas por día) */
-.dias-index { margin: 8px 0 18px; }
-.dias-index ul { padding-left: 20px; }
+/* Enlaces a subpáginas (caminatas/playas) y volver */
+.sub-links { margin: 6px 0 20px; padding: 11px 15px; background: #f3f7fc; border: 1px solid var(--linea); border-radius: 10px; font-weight: 600; }
+.sub-links a { color: var(--acento); text-decoration: none; }
+.sub-links a:hover { text-decoration: underline; }
 .volver { margin: 0 0 14px; }
+.contenido h2[id], .contenido h3[id] { scroll-margin-top: 14px; }
 
 /* Cabecera */
 .cabecera { border-bottom: 1px solid var(--linea); margin-bottom: 28px; }

@@ -36,7 +36,8 @@ const PARTS = [
   {
     output: 'canada.html', nav: 'Canadá', content: 'canada.md', data: 'lugares-canada.yml',
     fechas: '26 jul – 23 ago 2026 · autocaravana', desc: 'Rockies en autocaravana: Banff, Yoho, Jasper, Lake Louise, Kootenay.',
-    legend: LEG_CANADA, dias: [],
+    legend: LEG_CANADA,
+    dias: [{ slug: 'caminatas', titulo: '🥾 Caminatas por base', content: 'canada-caminatas.md', mapAll: true }],
   },
 ];
 
@@ -46,6 +47,7 @@ const mapsUrl = (q) => 'https://www.google.com/maps/search/?api=1&query=' + enco
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const safeJson = (o) => JSON.stringify(o).replace(/</g, '\\u003c');
 const md = new MarkdownIt({ html: true, linkify: true, typographer: true });
+const slugify = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/<[^>]+>/g, '').replace(/[^\w\s-]/g, '').trim().toLowerCase().replace(/\s+/g, '-');
 
 const loadData = (file) => (existsSync(join(root, 'data', file)) ? yaml.load(readFileSync(join(root, 'data', file), 'utf8')) : []) || [];
 const heroDe = (lug) => lug.filter((l) => l.foto).find((l) => l.hero) || lug.find((l) => l.foto) || null;
@@ -155,7 +157,8 @@ function renderMd(file, byId) {
     if (!l) { console.warn('  ⚠ {{media:%s}} sin lugar', id); return ''; }
     return mediaCard(l);
   });
-  return { titulo, html: md.render(src) };
+  const html = md.render(src).replace(/<(h[23])>([\s\S]*?)<\/\1>/g, (_, t, inner) => `<${t} id="${slugify(inner)}">${inner}</${t}>`);
+  return { titulo, html };
 }
 
 function mapPointsDe(lug) {
@@ -171,7 +174,7 @@ function renderPart(part) {
   const { titulo, html } = renderMd(part.content, byId);
   // Índice de días (solo si la parte tiene `dias` definidos)
   const diasIndex = part.dias && part.dias.length
-    ? `<section class="dias-index"><h2>Días / etapas</h2><ul>${part.dias.map((d) => `<li><a href="./${esc(part.output.replace('.html', ''))}-${esc(d.slug)}.html">${esc(d.titulo)}</a></li>`).join('')}</ul></section>`
+    ? `<p class="sub-links">${part.dias.map((d) => `<a href="./${esc(part.output.replace('.html', ''))}-${esc(d.slug)}.html">${esc(d.titulo)}</a>`).join(' · ')}</p>`
     : '';
   const out = pageShell({
     titulo: titulo || part.nav, nav: navHtml(part), hero: (heroDe(lug) || {}).foto,
