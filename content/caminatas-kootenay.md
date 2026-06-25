@@ -3,9 +3,28 @@
 *Camping Redstreak (Radium) · 12–16 ago.* Darío tolera pendiente y roca; lo único a evitar
 son los **cortados**.
 
-⭕ circular · 💦 baño · ⛰️ reto >4 h · 🚐 con la AC · 🚌 bus/shuttle · 🚶 desde el camping
+⭕ circular · 💦 baño · ⛰️ reto >4 h · 🚐 con la AC · 🚌 bus/shuttle · 🚶 desde el camping ·
+**Gente:** 🟢 tranquila · 🟡 media · 🔴 muy concurrida
 
-- 🥾 **Stanley Glacier** — ~9,8 km i/v, +405 m, ~3 h, circo glaciar + fósiles · 🚐 · sin cortados. **La mejor de Kootenay.** [Ruta](https://www.alltrails.com/trail/canada/alberta/stanley-glacier-trail)
-- 🥾 **Juniper Loop** — 6 km ⭕, +300 m, ~2 h, Sinclair Canyon · 🚐. ⚠️ obras en Sinclair Canyon 2026. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/juniper-loop)
-- 🥾 **Marble Canyon** — 1,6 km, llano, cañón con pasarelas · 🚐 · sin cortados (barandilla). [Ruta](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon)
-- ♨️ **Baño:** termas de Radium. 🚫 **Dog Lake** cerrado (puente).
+### Stanley Glacier
+~9,8 km i/v · +405 m · ~3 h · moderada · 🚐 (Hwy 93) · sin cortados · [Ruta](https://www.alltrails.com/trail/canada/alberta/stanley-glacier-trail)
+
+Sube por **bosque quemado en regeneración** hasta un circo bajo el glaciar colgante de Stanley
+Peak, con cascadas y **fósiles del Burgess Shale**. **Por qué hacerla:** la mejor de Kootenay —
+paisaje grande, fácil de seguir y un toque de geología. **Gente:** 🟡.
+
+### Juniper Loop ⭕
+6 km ⭕ · +300 m · ~2 h · moderada · 🚐 (junto a Radium, a ~5 min del camping) · sin cortados · [Ruta](https://www.alltrails.com/trail/canada/british-columbia/juniper-loop)
+
+Bucle por **bosque seco** (pinos ponderosa, enebros) asomado a las paredes rojas del **Sinclair
+Canyon** y la falla Redwall; suele haber ovejas de montaña. **Por qué hacerla:** ecosistema único,
+muy cerca del camping y poco transitada. **Gente:** 🟢. ⚠️ obras en Sinclair Canyon en 2026.
+
+### Marble Canyon
+1,6 km i/v · llano · ~0,75 h · muy fácil · 🚐 (Hwy 93) · sin cortados (barandilla) · [Ruta](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon)
+
+Pasarelas sobre un **cañón estrecho y profundo** de caliza/mármol con agua turquesa y una cascada.
+**Por qué hacerla:** mucho impacto en muy poco; ideal para el peque. **Gente:** 🟡.
+
+♨️ **Baño:** las **termas de Radium** (la piscina termal más grande de Canadá).
+🚫 **Dog Lake** cerrado (puente dañado).

@@ -3,9 +3,29 @@
 *Camping Bow Valley · 20–22 ago.* Hace falta el **Kananaskis Conservation Pass** (15 $/día).
 Darío tolera pendiente y roca; lo único a evitar son los **cortados**.
 
-⭕ circular · 💦 baño · 🚐 con la AC · 🚶 desde el camping
+⭕ circular · 💦 baño · 🚐 con la AC · 🚶 desde el camping ·
+**Gente:** 🟢 tranquila · 🟡 media · 🔴 muy concurrida
 
-- 🥾 **Many Springs** — 1,6 km ⭕, llano, manantiales · 🚶 desde el camping · sin cortados.
-- 🥾 **Troll Falls** — 3,5 km, +60 m, ~1–1,5 h, cascada · 🚐. [Ruta](https://www.alltrails.com/trail/canada/alberta/troll-falls)
-- 🥾 **Grotto Canyon** — 4 km, +80 m, ~1,5 h, pictografías y cueva · 🚐. [Ruta](https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail)
-- 💦 **Baño:** Quarry Lake (Canmore). 🚫 **Grassi Lakes** y **Ha Ling** (accesos cerrados en 2026).
+### Many Springs ⭕ 🚶
+1,6 km ⭕ · llano · ~0,5 h · muy fácil · 🚶 desde el camping · sin cortados
+
+Bucle llano por un humedal de **manantiales** de agua clara dentro del Bow Valley PP, con mirador.
+**Por qué hacerla:** sale casi del propio camping, perfecta para estirar las piernas el último día.
+**Gente:** 🟢.
+
+### Troll Falls
+3,5 km i/v · +60 m · ~1–1,5 h · fácil · 🚐 (Stoney/Kananaskis Village) · sin cortados · [Ruta](https://www.alltrails.com/trail/canada/alberta/troll-falls)
+
+Paseo fácil por bosque hasta una **cascada** acogedora; muy familiar. **Por qué hacerla:** corta,
+bonita y de las más fáciles de Kananaskis. **Gente:** 🟡. (No subáis por los senderos sueltos de
+alrededor de la cascada: hay riesgo de desprendimientos.)
+
+### Grotto Canyon
+4 km i/v · +80 m · ~1,5 h · fácil · 🚐 (Hwy 1A) · sin cortados · [Ruta](https://www.alltrails.com/trail/canada/alberta/grotto-canyon-trail)
+
+Se camina por el **lecho de grava** de un cañón hasta una cascada, una pequeña cueva y unas
+**pictografías** antiguas. **Por qué hacerla:** sensación de aventura sin peligro (vas por el fondo)
+y las pinturas rupestres enganchan a los niños. **Gente:** 🟡.
+
+💦 **Baño:** Quarry Lake (Canmore), lago de pueblo de los más cálidos.
+🚫 **Grassi Lakes** y **Ha Ling** (accesos cerrados en 2026).
