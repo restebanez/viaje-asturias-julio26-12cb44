@@ -6,15 +6,17 @@ Lake Louise y Kootenay**, más Kananaskis al final.
 
 > **Antes de salir:** en 2026 la **entrada a los parques nacionales es GRATIS** del 19 jun
 > al 7 sep (*Canada Strong Pass*), así que **no hace falta el Discovery Pass**. Lo que **sí**
-> se paga: camping, parking, termas, teleféricos y tours (p. ej. el Ice Explorer). Las
-> reservas de camping (abajo) van aparte. Check-in 14:00 · check-out 11:00.
+> se paga: camping, parking, termas, teleféricos y tours (p. ej. el Ice Explorer); además hay
+> **25% de descuento en camping de Parks Canada** (no en Alberta Parks/Bow Valley). Las reservas
+> de camping (abajo) van aparte. **Check-in/out: 14:00 / 11:00** en parques nacionales; **Bow
+> Valley (Alberta Parks): 16:00 / 14:00**.
 
 ## 🧭 Cómo leer esta página
 
 - **Mapa (arriba):** 🔵 base/camping · 🟢 actividad/naturaleza · 🟡 popular · 🔴 con
   reserva/muy concurrido. Pincha un pin para abrir **Google Maps**, el **vídeo** y la **ruta**.
-- **Símbolos:** 🥾 caminata (≤4 h) · ⭕ circular · 💦 baño · ♨️ termas · 🚐 se llega/aparca
-  con la autocaravana · 🚌 hay bus o shuttle.
+- **Símbolos:** 🥾 caminata (≤4 h) · ⛰️ reto >4 h (adultos) · ⭕ circular · 💦 baño · ♨️ termas ·
+  🚐 se llega/aparca con la autocaravana · 🚌 hay bus o shuttle.
 - **Cada etapa** lleva: fechas, **nº de reserva y sitio**, qué ver, **2 caminatas** con su
   acceso, y fichas con foto + vídeo + mapa. Abajo: tabla de **conducción entre campings**,
   reservas y **dónde bañarse**.
@@ -65,7 +67,7 @@ Primer contacto con las Rocosas, muy cerca del pueblo de Banff.
 - **Johnson Lake**: pequeño, tranquilo y bueno para un chapuzón/paseo fácil con el peque.
 - **Banff Gondola** (Sulphur Mountain): teleférico a lo alto.
 - 🥾 **Sulphur Mountain → Sanson's Peak** (¡empieza **arriba, donde te deja el teleférico**!) — pasarela de ~2 km ida/vuelta por la cresta, con escaleras de madera, hasta la **Cosmic Ray Station** y el observatorio histórico; fácil y con vistas 360°. [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-mountain-cosmic-ray-station). 🚐 Subís en **teleférico (de pago)**; a la base, con la AC (parking) o **Roam Ruta 1**.
-- 🥾 **Sulphur Mountain Trail** (reto opcional, **>4 h**, no para el peque): subir **andando** a la cima por los zigzags, ~5,5 km / +655 m (~2–3 h de subida) y **bajar en góndola** (billete solo bajada). [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-mountain-trail). 🚐 Mismo inicio: base del teleférico (AC/parking o Roam Ruta 1).
+- ⛰️ **Reto adulto (opcional, >4 h — no para el peque): Sulphur Mountain Trail** — subir **andando** a la cima por los zigzags, ~5,5 km / +655 m (~2–3 h de subida) y **bajar en góndola** (billete solo bajada). [Ruta](https://www.alltrails.com/trail/canada/alberta/sulphur-mountain-trail). 🚐 Mismo inicio: base del teleférico (AC/parking o Roam Ruta 1).
 - **Pueblo de Banff**: Bow Falls, Banff Avenue.
 - 🥾 **Johnson Lake Loop** — 2,9 km **circular**, ~1 h, fácil y con **💦 baño** (de los lagos más templados). [Ruta](https://www.alltrails.com/trail/canada/alberta/johnson-lake). 🚐 Con la AC al parking de Johnson Lake (pequeño, ir pronto).
 - 🥾 **Johnston Canyon** (cascadas) — Lower Falls 2,4 km / Upper 5,5 km, ~2–2,5 h, por pasarelas; agua helada (sin baño). [Ruta](https://www.alltrails.com/trail/canada/alberta/johnston-canyon-to-upper-falls). 🚌 **Roam Transit Ruta 9** (verano a diario, sin reserva) — mejor que llevar la AC (el parking se llena).
@@ -81,7 +83,7 @@ Primer contacto con las Rocosas, muy cerca del pueblo de Banff.
 
 Cruzáis a la Columbia Británica (Yoho). Base en **Field**.
 
-- **Emerald Lake**: el lago esmeralda por excelencia; se pueden alquilar **canoas**.
+- **Emerald Lake**: el lago esmeralda por excelencia; **alquiler de canoas** (operador autorizado, ~16 may–8 oct). ⚠️ Por la veda de especies invasoras en Yoho/Kootenay (hasta 2027) **no se puede llevar embarcación propia** ni pescar.
 - **Takakkaw Falls**: una de las cascadas más altas de Canadá (~254 m), espectacular. ⚠️ **Acceso:** la Yoho Valley Road limita a **7 m / 23 ft** y no admite remolques → **con la AC no podréis subir**; aparcad en **Monarch Campground** al inicio y comprobad si hay shuttle, o quedaos con Emerald/Wapta.
 - **Natural Bridge**: puente de roca esculpido por el río Kicking Horse.
 - **Spiral Tunnels**: mirador donde se ve pasar el **tren** entrando en los túneles en
@@ -155,13 +157,13 @@ Louise. (De camino/alrededor del campamento.)
 - **Moraine Lake**: el del Valle de los Diez Picos (el de los billetes antiguos).
 - 🥾 **Lake Louise Lakeshore** — 4,7 km ida/vuelta, llano y fácil, el paseo icónico junto al lago turquesa. [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-louise-lakeshore).
 - 🥾 **Lake Agnes Tea House** — 7,4 km, ~3–3,5 h, +400 m, casa de té histórica junto al Mirror Lake y el lago Agnes (alpino, sin baño). [Ruta](https://www.alltrails.com/trail/canada/alberta/lake-agnes-trail).
-- 🚐 **Acceso:** el parking del lago se llena de madrugada y con la AC es complicado → **Park & Ride** (1 Whitehorn Rd, gratis) + **shuttle** (reserva, abre 15 abr 2026) o bus **Roam 8X**. **Moraine Lake: solo shuttle con reserva.**
+- 🚐 **Acceso:** el parking del lago se llena de madrugada y con la AC es complicado → **Park & Ride** (1 Whitehorn Rd, gratis) + **shuttle de Parks Canada** (reserva, abre 15 abr 2026). El bus **Roam 8X** solo conecta Banff↔Lake Louise. **Moraine Lake:** prohibidos los coches → **shuttle de Parks Canada** desde el Park & Ride (con reserva) o **tour** (Roam **no** llega a Moraine).
 
 > 🔴 **Importante (multitudes + reservas):** **Moraine Lake está cerrado a coches
-> particulares** — solo se llega en **shuttle de Parks Canada (con reserva), Roam Transit
-> o tour**; reserva con antelación. En **Lake Louise** el aparcamiento del lago se llena de
-> madrugada: usad el **Park & Ride / shuttle** o llegad muy pronto. Son los dos puntos más
-> masificados del viaje: madrugar o shuttle.
+> particulares** — solo se llega en **shuttle de Parks Canada (con reserva)** o **tour**;
+> reserva con antelación (abre 15 abr 2026). En **Lake Louise** el aparcamiento del lago se
+> llena de madrugada: usad el **Park & Ride + shuttle** o llegad muy pronto. Son los dos
+> puntos más masificados del viaje: madrugar o shuttle.
 
 {{media:moraine_lake}}
 
@@ -177,9 +179,9 @@ De vuelta a BC, parque más tranquilo y con termas.
 - **Radium Hot Springs**: la piscina termal más grande de Canadá, junto al cañón rojo.
 - **Marble Canyon**: cañón estrecho con pasarelas sobre el agua turquesa.
 - **Paint Pots** y otros **cañones** para caminar.
-- 🥾 **Juniper Loop** — 6 km **circular**, ~2 h, por Sinclair Canyon y la falla Redwall (bosque seco, ovejas de montaña). [Ruta](https://www.alltrails.com/trail/canada/british-columbia/juniper-loop). 🚐 Trailhead junto a la puerta oeste/termas de Radium, **a ~5 min del camping Redstreak**.
+- 🥾 **Juniper Loop** — 6 km **circular**, ~2 h, por Sinclair Canyon y la falla Redwall (bosque seco, ovejas de montaña). [Ruta](https://www.alltrails.com/trail/canada/british-columbia/juniper-loop). 🚐 Trailhead junto a la puerta oeste/termas de Radium, **a ~5 min del camping Redstreak**. ⚠️ Reconfirmar: **obras en Sinclair Canyon** en 2026 (posibles cierres de pasos).
 - 🥾 **Marble Canyon** — ~1,6 km, fácil, cañón con pasarelas sobre agua turquesa. [Ruta](https://www.alltrails.com/trail/canada/british-columbia/marble-canyon). 🚐 Con la AC, parking en la Hwy 93. (Tuvo cierres puntuales a principios de 2026, ya finalizados; **reconfirmad**.)
-- 💦 Baño: **Dog Lake** (5 km ida/vuelta, lago más templado) o las **termas de Radium ♨️**.
+- 💦 Baño: las **termas de Radium ♨️** (los lagos y ríos van helados). *(Dog Lake está **cerrado en 2026** por un puente dañado.)*
 
 {{media:marble_canyon}}
 
@@ -269,13 +271,33 @@ Emerald, Minnewanka): preciosos para ver, no para nadar. Los que **sí** se disf
 
 ---
 
+## 🎒 Clima y equipo
+
+Agosto en las Rocosas: días suaves (15–25 °C) pero **mañanas y noches frías** en altura, y
+posible lluvia o humo de incendios. Llevad:
+
+- **Capas** + **impermeable/cortavientos**; gorro y guante fino para los miradores altos
+  (Wilcox, teleféricos).
+- **Bear spray** 🐻 para las caminatas (**se compra allí**, no se puede volar con él) y saber
+  usarlo; haced ruido en las sendas.
+- **Bañador + escarpines + toalla** (lagos templados y termas), crema solar y **repelente**.
+- **Calzado de senderismo**; **mochila de porteo** o que el peque ande tramos cortos; bastones
+  para adultos en Wilcox/Sulphur.
+- Botiquín, agua y snacks, gorra, bolsa estanca para el móvil.
+
+---
+
 ## ✅ Pendientes y notas
 
 - ⚠️ **Sillita de niño** en la autocaravana (confirmar con CanaDream).
-- **Entrada a parques GRATIS** en 2026 (Canada Strong Pass, 19 jun–7 sep): no compréis
-  Discovery Pass. Camping, parking, termas y tours **sí** se pagan.
-- **Reservar shuttle de Moraine Lake** (y plan para Lake Louise) con antelación.
-- Reconfirmar el **Ice Explorer / Skywalk** del Columbia Icefield (suele agotarse en verano).
-- **Cierres 2026 ya sustituidos en el plan:** Maligne Canyon y Mount Edith Cavell (incendio
-  de Jasper) y Grassi Lakes (desprendimiento). Reconfirmad Marble Canyon antes de ir.
+- 🎟️ **Kananaskis Conservation Pass** — **OBLIGATORIO** para aparcar en Kananaskis/Bow Valley
+  (camping final, **Troll Falls**, **Grotto Canyon**): **15 CAD/día** o **90 CAD/año**. El
+  Canada Strong Pass **no** lo cubre (es provincial, no Parks Canada).
+- 🎟️ **Reservar con antelación:** **shuttle Moraine/Lake Louise** (abre **15 abr 2026**), el
+  **Ice Explorer / Skywalk** del Columbia Icefield y el **crucero de Maligne Lake** (se agotan).
+- **Entrada a parques nacionales GRATIS** en 2026 (Canada Strong Pass, 19 jun–7 sep) **+ 25%
+  en camping de Parks Canada**: no compréis Discovery Pass. Parking, termas y tours **sí** se pagan.
+- **Cierres 2026 (reconfirmar 48 h antes):** Maligne Canyon, Mount Edith Cavell (incendio de
+  Jasper), Grassi Lakes y Dog Lake — **ya sustituidos** en el plan. Verificad también Marble
+  Canyon y las obras de Sinclair Canyon.
 - Bow Valley: las fechas no se podían cambiar hasta el 22 jun 2026 (ya pasado).
